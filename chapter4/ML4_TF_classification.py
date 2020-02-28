@@ -1,4 +1,4 @@
-# Machine Learning - Chapter 2: Basic Classification
+# Machine Learning - Chapter 4: TF Classification
 # Understand the basic components of any ML model
 # Build a Neural Network using Keras and TensorFlow that performs image recognition 
 
