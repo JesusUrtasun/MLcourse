@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 
 # Download datasets
 print("\nDownload datasets")
-xy_training = np.load("ML2_data/linear_training.npy")
-xy_testing = np.load("ML_data/linear_testing.npy")
+xy_training = np.load("data/linear_training.npy")
+xy_testing = np.load("data/linear_testing.npy")
 print("train set: {}\ntest set: {}".format(xy_training, xy_testing))
 # Split the dataset into a training and a testing set
 x_train = xy_training[:, 0]
@@ -68,13 +68,10 @@ print("db = " + str(grads["db"]))
 print("MSE = " + str(loss))
 print(loss)
 
-import pdb
-pdb.set_trace()
-
 # Perform the optimization. Update rule for a parameter theta is theta -> theta - alpha * dtheta
 print("\nTraining")
 
-def optimize(num_iterations = 1000, print_loss = True, m, b, X, Y, learning_rate):
+def optimize(m, b, X, Y, learning_rate, num_iterations = 1000, print_loss = True):
 
     loss_list = []
     slopes = []
