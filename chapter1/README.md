@@ -1,4 +1,7 @@
 # Chapter 1
 
-Install Python, TF and Keras
-Import libraries and perform basic operations
+### Jesús Urtasun Elizari - Uiverisity of Milan - 2019/20
+
+Install Python.
+Install TensorFlow and Keras.
+Import libraries and perform basic operations.

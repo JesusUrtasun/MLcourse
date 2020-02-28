@@ -1,5 +1,5 @@
-# ML course - Chapter 0
-# Install numpy, TF and Keras
+# ML course - Chapter 1
+# Basic operations
 
 import numpy as np
 import tensorflow as tf
