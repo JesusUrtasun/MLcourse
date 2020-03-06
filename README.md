@@ -1,30 +1,35 @@
 # Machine Learning course
 
-### Jesús Urtasun Elizari - Uiverisity of Milan - 2019/20
+### Jesús Urtasun Elizari - University of Milan - 2019/20
 
 Find the content of the course:
 
-  [https://github.com/JesusUrtasun/MLcourse] (https://github.com/JesusUrtasun/MLcourse)
+(https://github.com/JesusUrtasun/MLcourse)
 
 ## Chapter 1
 
-Import basic libraries
+- Get used to Python.
+- Import basic libraries
 
 ## Chapter 2
 
-ML for linear models
+- First approach to a ML problem.
+- Perform a linear fit.
 
 ## Chapter 3
 
-Basic NN wituout libraries
+- First approach to Neural Networks.
+- Basic NN from scratch.
 
 ## Chapter 4
 
-Fully operative NN using TF
+- Get used to TensorFlow and Keras.
+- Build a fully operative NN using TF.
 
 ## Chapter 5
 
-Fully operative NN using OOP programing
+- Get used to OOP programming in Python.
+- Build a fully operative NN in OOP paradigm.
 
 ## Chapter 6
 
@@ -37,3 +42,5 @@ Clasification vs Regression problems
 ## GANS
 
 ## GP for Machine Learning
+
+## Course roadmap still ongoing
