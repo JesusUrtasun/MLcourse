@@ -1,20 +1,25 @@
-# Machine Learning course - Chapter 0: Linear models
-# Build a basic model that performs linear regression
+# Chapter 1: Linear models
+# Author: Jesús Urtasun - 2020
+
+# Exercise 1: Load data
+
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Download datasets
-print("\nDownload datasets")
-xy_training = np.load("data/linear_training.npy")
-xy_testing = np.load("data/linear_testing.npy")
-print("train set: {}\ntest set: {}".format(xy_training, xy_testing))
+# Load datasets
+print("\nLoad datasets")
+xy_training = np.load("../data/linear_training.npy")
+xy_testing = np.load("../data/linear_testing.npy")
+print("train set:\n{}\ntest set:\n{}".format(xy_training, xy_testing))
+
 # Split the dataset into a training and a testing set
 x_train = xy_training[:, 0]
 y_train = xy_training[:, 1]
 x_test = xy_testing[:, 0]
 y_test = xy_testing[:, 1]
-print("train set: {}\ntrain labels: {}".format(x_train, y_train))
-print("test set: {}\ntest labels: {}".format(x_test, y_test))
+print("train set:\n{}\ntrain labels:\n{}".format(x_train, y_train))
+print("test set:\n{}\ntest labels:\n{}".format(x_test, y_test))
+
 # Plot the data to fit once the training is done (test set). 
 plt.figure()
 plt.scatter(x_train, y_train, label = "training data")
@@ -23,6 +28,8 @@ plt.xlabel("$x$")
 plt.ylabel("$y(x)$")
 plt.legend()
 plt.show()
+
+# Exercise 2: Prediction and loss
 
 # Define the Loss, quantifying how far is the predicted value from the truth. Use the Mean Squared Error
 print("\nLoss function")
@@ -40,10 +47,7 @@ y_true = np.array([1, 2, 3])
 y_pred = np.array([1.1, 1.9, 3])
 print("MSE = {}".format(str(MSE(y_true, y_pred))))
 
-# Define the gradient
-print("\nGradient")
-
-def propagate(m, b, X, Y):
+def predict(m, b, X, Y):
    
     # Predict and compute the loss
     N = Y.shape[0]
@@ -62,16 +66,18 @@ def propagate(m, b, X, Y):
 # Test the implementation. Expected Output: dm 15.7, db = 6.8, MSE = 15.444999999999999
 m, b, X, Y = 1.0, 2.5, np.array([1, 2, 3, 4]), np.array([1.2, -2.3, 3.0, 4.5])
 print("\nCompute forward feeding")
-grads, loss = propagate(m, b, X, Y)
+grads, loss = predict(m, b, X, Y)
 print("dm = " + str(grads["dm"]))
 print("db = " + str(grads["db"]))
 print("MSE = " + str(loss))
 print(loss)
 
+# Exercise 3: Training
+
 # Perform the optimization. Update rule for a parameter theta is theta -> theta - alpha * dtheta
 print("\nTraining")
 
-def optimize(m, b, X, Y, learning_rate, num_iterations = 1000, print_loss = True):
+def train(m, b, X, Y, learning_rate, num_iterations = 1000, print_loss = True):
 
     loss_list = []
     slopes = []
@@ -84,7 +90,7 @@ def optimize(m, b, X, Y, learning_rate, num_iterations = 1000, print_loss = True
         biases.append(b)
         
         # Predict and compute loss
-        grads, loss = propagate(m, b, X, Y)
+        grads, loss = predict(m, b, X, Y)
         # Store the loss in a list after each update
         loss_list.append(loss)
 
@@ -105,9 +111,9 @@ def optimize(m, b, X, Y, learning_rate, num_iterations = 1000, print_loss = True
     
     return params, grads, loss_list, slopes, biases
 
-# Use the optimize function to find the best fit line, using an initial guess for m,b = 0 
+# Use the train function to find the best fit line, using an initial guess for m,b = 0 
 # Use a learning rate of 0.01 and at least 1000 iterations of training
-params, grads, loss_list, slopes, biases = optimize(0.1, 0.2, x_train, y_train, learning_rate = 0.01)
+params, grads, loss_list, slopes, biases = train(0.1, 0.2, x_train, y_train, learning_rate = 0.01)
 
 # Plot the results of the training
 # Expected output: Should be asymptoting to values around -2 for m and 5 for b
