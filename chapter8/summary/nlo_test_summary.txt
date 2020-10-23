@@ -1,0 +1,55 @@
+Interpolation (1.075, 2.1)
+Best dict: {'kernel': 'dotprod', 'length': 1.2, 'sigma_0': 0.9}
+Interpolation (1.075, 2.1)
+chi2 = infBest dict: {'kernel': 'expsin', 'length': 1.2}
+Interpolation (1.075, 2.1)
+chi2 = infBest dict: {'kernel': 'exp', 'length': 0.5}
+Interpolation (1.075, 2.1)
+chi2 = 1.46613Best dict: {'kernel': 'matern', 'length': 0.8, 'nu': 2.1}
+Interpolation (1.075, 2.1)
+chi2 = 0.07528Best dict: {'gamma': 1.5, 'kernel': 'pairwise', 'length': 0.5}
+Interpolation (1.075, 2.1)
+chi2 = infBest dict: {'kernel': 'rbf', 'length': 1.9}
+Interpolation (1.075, 2.1)
+chi2 = 1.46426Best dict: {'alpha_rquad': 0.7, 'kernel': 'rquad', 'length': 0.9}
+Interpolation (1.075, 2.1)
+chi2 = 0.31561Best dict: {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.9}
+Interpolation (1.075, 2.1)
+chi2 = 0.09528Best dict: {'alpha_rquad': 0.9, 'kernel': 'sum2', 'length': 1.3, 'nu': 2.4}
+Interpolation (1.075, 2.1)
+chi2 = infBest dict: {'alpha_rquad': 0.9, 'kernel': 'sum2', 'length': 1.3, 'nu': 2.4}
+Interpolation (1.075, 2.1)
+chi2 = inf
+
+Second run - proper hyperopt
+
+Interpolation N range: (1.075, 2.1)
+Best dict: {'kernel': 'dotprod', 'length': 1.2, 'sigma_0': 0.9}
+chi2 = inf
+Best dict: {'kernel': 'expsin', 'length': 1.1, 'periodicity': 1.4}
+chi2 = 0.36246
+Best dict: {'kernel': 'exp', 'length': 0.5}
+chi2 = 1.46613
+Best dict: {'kernel': 'matern', 'length': 0.8, 'nu': 2.1}
+chi2 = 0.07528
+Best dict: {'gamma': 1.5, 'kernel': 'pairwise', 'length': 0.5}
+chi2 = inf
+Best dict: {'kernel': 'rbf', 'length': 1.9}
+chi2 = 1.46426
+Best dict: {'alpha_rquad': 0.7, 'kernel': 'rquad', 'length': 0.9}
+chi2 = 0.31561
+Best dict: {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.9}
+chi2 = 0.09528
+Best dict: {'alpha_rquad': 0.9, 'kernel': 'sum2', 'length': 1.3, 'nu': 2.4}
+chi2 = inf
+Best dict: {'kernel': 'expsin', 'length': 1, 'periodicity': 1.4}
+chi2 = inf
+Best dict: {'kernel': 'matern', 'length': 0.8, 'nu': 2.1}
+chi2 = inf
+Best dict: {'kernel': 'matern', 'length': 0.8, 'nu': 2.1}
+chi2 = 0.07528
+Interpolation N range: (1.075, 2.1) - 25 points
+Best dict: {'kernel': 'expsin', 'length': 1, 'periodicity': 1.4} chi2 = 0.35943
+Best dict: {'kernel': 'expsin', 'length': 1.1, 'periodicity': 1.4} chi2 = 0.36246
+Best dict: {'kernel': 'expsin', 'length': 1.1, 'periodicity': 1.4} chi2 = 0.36246
+Best dict: {'kernel': 'expsin', 'length': 1.1, 'periodicity': 1.4} chi2 = 0.36246

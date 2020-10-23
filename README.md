@@ -43,4 +43,8 @@ Clasification vs Regression problems
 
 ## GP for Machine Learning
 
+- Reproduce Hypergeometric functions with python libraries.
+- Interpolate observables with Gaussian Processes.
+- Hyperoptimization.
+
 ## Course roadmap still ongoing

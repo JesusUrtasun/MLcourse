@@ -1,0 +1,1710 @@
+
+Interpolation N range: (1.175, 2.2) - 25 points
+-1645616045942.333 (+/-3291232025306.500); for {'kernel': 'dotprod', 'length': 0.1, 'sigma_0': 0.5}
+-196639178862810.844 (+/-387908431344095.125); for {'kernel': 'dotprod', 'length': 0.1, 'sigma_0': 0.6}
+-28497624700001.887 (+/-55122463585414.523); for {'kernel': 'dotprod', 'length': 0.1, 'sigma_0': 0.7}
+-34247693345991.559 (+/-64982230615942.969); for {'kernel': 'dotprod', 'length': 0.1, 'sigma_0': 0.8}
+-195300701168237.500 (+/-390601402336207.625); for {'kernel': 'dotprod', 'length': 0.1, 'sigma_0': 0.9}
+-56673315970.315 (+/-113346628409.466); for {'kernel': 'dotprod', 'length': 0.1, 'sigma_0': 1.0}
+-195788240976767.281 (+/-389687224418871.812); for {'kernel': 'dotprod', 'length': 0.1, 'sigma_0': 1.1}
+-196971326116349.969 (+/-387361346089569.125); for {'kernel': 'dotprod', 'length': 0.1, 'sigma_0': 1.2}
+-65691495494167.445 (+/-130170751131768.938); for {'kernel': 'dotprod', 'length': 0.1, 'sigma_0': 1.3}
+-195325293886830.094 (+/-390650587773581.188); for {'kernel': 'dotprod', 'length': 0.1, 'sigma_0': 1.4}
+-195292937598934.906 (+/-390585875197820.812); for {'kernel': 'dotprod', 'length': 0.2, 'sigma_0': 0.5}
+-67135942692290.531 (+/-134045838289714.281); for {'kernel': 'dotprod', 'length': 0.2, 'sigma_0': 0.6}
+-35924305455628.664 (+/-69454316025296.703); for {'kernel': 'dotprod', 'length': 0.2, 'sigma_0': 0.7}
+-164635247480296.406 (+/-326040633716144.188); for {'kernel': 'dotprod', 'length': 0.2, 'sigma_0': 0.8}
+-35012351420432.691 (+/-63443057757323.102); for {'kernel': 'dotprod', 'length': 0.2, 'sigma_0': 0.9}
+-129900840508266.703 (+/-259801681016454.094); for {'kernel': 'dotprod', 'length': 0.2, 'sigma_0': 1.0}
+-196192695687514.781 (+/-388890144770433.062); for {'kernel': 'dotprod', 'length': 0.2, 'sigma_0': 1.1}
+-138373911053961.391 (+/-273515703291359.875); for {'kernel': 'dotprod', 'length': 0.2, 'sigma_0': 1.2}
+-67723775180383.930 (+/-131856194413081.844); for {'kernel': 'dotprod', 'length': 0.2, 'sigma_0': 1.3}
+-196172896180382.094 (+/-388980650372784.000); for {'kernel': 'dotprod', 'length': 0.2, 'sigma_0': 1.4}
+-29268543519943.449 (+/-53598878725143.000); for {'kernel': 'dotprod', 'length': 0.3, 'sigma_0': 0.5}
+-68923368671477.914 (+/-137604052659502.375); for {'kernel': 'dotprod', 'length': 0.3, 'sigma_0': 0.6}
+-159623099813948.312 (+/-312663350325446.375); for {'kernel': 'dotprod', 'length': 0.3, 'sigma_0': 0.7}
+-195301952667906.594 (+/-390603905335789.000); for {'kernel': 'dotprod', 'length': 0.3, 'sigma_0': 0.8}
+-167419592359845.469 (+/-334318158047281.938); for {'kernel': 'dotprod', 'length': 0.3, 'sigma_0': 0.9}
+-71478777875913.297 (+/-139966603514048.516); for {'kernel': 'dotprod', 'length': 0.3, 'sigma_0': 1.0}
+-195328372655617.406 (+/-390656745311219.188); for {'kernel': 'dotprod', 'length': 0.3, 'sigma_0': 1.1}
+-168952458059233.219 (+/-331321641981561.312); for {'kernel': 'dotprod', 'length': 0.3, 'sigma_0': 1.2}
+-94314660761580.562 (+/-183701235256751.938); for {'kernel': 'dotprod', 'length': 0.3, 'sigma_0': 1.3}
+-98588343185602.359 (+/-197176686371068.594); for {'kernel': 'dotprod', 'length': 0.3, 'sigma_0': 1.4}
+-195265664228990.594 (+/-390531328457928.438); for {'kernel': 'dotprod', 'length': 0.4, 'sigma_0': 0.5}
+-1645593925464.462 (+/-3291187850614.319); for {'kernel': 'dotprod', 'length': 0.4, 'sigma_0': 0.6}
+-57749716972233.086 (+/-115499433944458.078); for {'kernel': 'dotprod', 'length': 0.4, 'sigma_0': 0.7}
+-195289555571991.844 (+/-390579111143979.000); for {'kernel': 'dotprod', 'length': 0.4, 'sigma_0': 0.8}
+-133480078576839.891 (+/-261815451993656.031); for {'kernel': 'dotprod', 'length': 0.4, 'sigma_0': 0.9}
+-30078867453957.402 (+/-58735287265487.539); for {'kernel': 'dotprod', 'length': 0.4, 'sigma_0': 1.0}
+-1644606585104.449 (+/-3289213167385.708); for {'kernel': 'dotprod', 'length': 0.4, 'sigma_0': 1.1}
+-38951263397698.453 (+/-71565113264016.422); for {'kernel': 'dotprod', 'length': 0.4, 'sigma_0': 1.2}
+-195340141239303.156 (+/-390680282478587.500); for {'kernel': 'dotprod', 'length': 0.4, 'sigma_0': 1.3}
+-102384973331760.328 (+/-198187223200386.344); for {'kernel': 'dotprod', 'length': 0.4, 'sigma_0': 1.4}
+-196939702671474.906 (+/-387298809987396.000); for {'kernel': 'dotprod', 'length': 0.5, 'sigma_0': 0.5}
+-196958065912119.531 (+/-387335689693616.812); for {'kernel': 'dotprod', 'length': 0.5, 'sigma_0': 0.6}
+-167226489905960.000 (+/-327890435279817.125); for {'kernel': 'dotprod', 'length': 0.5, 'sigma_0': 0.7}
+-366.522 (+/-463.479); for {'kernel': 'dotprod', 'length': 0.5, 'sigma_0': 0.8}
+-64999613347160.727 (+/-123416278951193.938); for {'kernel': 'dotprod', 'length': 0.5, 'sigma_0': 0.9}
+-196807703077830.625 (+/-387539909722949.375); for {'kernel': 'dotprod', 'length': 0.5, 'sigma_0': 1.0}
+-131920028586611.141 (+/-257260448407435.031); for {'kernel': 'dotprod', 'length': 0.5, 'sigma_0': 1.1}
+-59090198611952.961 (+/-112798758721199.422); for {'kernel': 'dotprod', 'length': 0.5, 'sigma_0': 1.2}
+-196999748793509.531 (+/-387416890913622.062); for {'kernel': 'dotprod', 'length': 0.5, 'sigma_0': 1.3}
+-165627610113935.906 (+/-331255220227861.812); for {'kernel': 'dotprod', 'length': 0.5, 'sigma_0': 1.4}
+-26.920 (+/-47.021); for {'kernel': 'dotprod', 'length': 0.6, 'sigma_0': 0.5}
+-1589096348300.240 (+/-3178192696395.124); for {'kernel': 'dotprod', 'length': 0.6, 'sigma_0': 0.6}
+-196966515898160.000 (+/-387349156332384.312); for {'kernel': 'dotprod', 'length': 0.6, 'sigma_0': 0.7}
+-196127325384737.031 (+/-389037936716042.812); for {'kernel': 'dotprod', 'length': 0.6, 'sigma_0': 0.8}
+-31373167372187.145 (+/-56175167095573.688); for {'kernel': 'dotprod', 'length': 0.6, 'sigma_0': 0.9}
+-33110333081557.293 (+/-59863196099886.430); for {'kernel': 'dotprod', 'length': 0.6, 'sigma_0': 1.0}
+-196945780988756.281 (+/-387313350396422.375); for {'kernel': 'dotprod', 'length': 0.6, 'sigma_0': 1.1}
+-196780430235955.750 (+/-387713431677049.375); for {'kernel': 'dotprod', 'length': 0.6, 'sigma_0': 1.2}
+-1646395809715.281 (+/-3292791619390.333); for {'kernel': 'dotprod', 'length': 0.6, 'sigma_0': 1.3}
+-877413597429.616 (+/-1754827194686.711); for {'kernel': 'dotprod', 'length': 0.6, 'sigma_0': 1.4}
+-168754469978736.438 (+/-331451851678102.625); for {'kernel': 'dotprod', 'length': 0.7, 'sigma_0': 0.5}
+-1644802876749.505 (+/-3289605753331.249); for {'kernel': 'dotprod', 'length': 0.7, 'sigma_0': 0.6}
+-135464744705430.266 (+/-264856552715279.031); for {'kernel': 'dotprod', 'length': 0.7, 'sigma_0': 0.7}
+-160345353678228.281 (+/-319045982734603.312); for {'kernel': 'dotprod', 'length': 0.7, 'sigma_0': 0.8}
+-163459820673798.469 (+/-320855750291474.125); for {'kernel': 'dotprod', 'length': 0.7, 'sigma_0': 0.9}
+-158398424902489.281 (+/-315077849807157.625); for {'kernel': 'dotprod', 'length': 0.7, 'sigma_0': 1.0}
+-196649062172212.750 (+/-387929266004530.625); for {'kernel': 'dotprod', 'length': 0.7, 'sigma_0': 1.1}
+-65060947323022.062 (+/-130105765803391.781); for {'kernel': 'dotprod', 'length': 0.7, 'sigma_0': 1.2}
+-66391297700880.133 (+/-127412621477182.656); for {'kernel': 'dotprod', 'length': 0.7, 'sigma_0': 1.3}
+-63927191168468.930 (+/-124646125139856.891); for {'kernel': 'dotprod', 'length': 0.7, 'sigma_0': 1.4}
+-1158874713131.100 (+/-2317749426169.098); for {'kernel': 'dotprod', 'length': 0.8, 'sigma_0': 0.5}
+-1645469659673.848 (+/-3290939319306.423); for {'kernel': 'dotprod', 'length': 0.8, 'sigma_0': 0.6}
+-33158961690181.715 (+/-59737786999068.070); for {'kernel': 'dotprod', 'length': 0.8, 'sigma_0': 0.7}
+-197042537265442.500 (+/-387497713273399.125); for {'kernel': 'dotprod', 'length': 0.8, 'sigma_0': 0.8}
+-1646231701766.086 (+/-3292463403456.780); for {'kernel': 'dotprod', 'length': 0.8, 'sigma_0': 0.9}
+-1644284007407.991 (+/-3288568014181.941); for {'kernel': 'dotprod', 'length': 0.8, 'sigma_0': 1.0}
+-197046865800214.844 (+/-387517960781078.188); for {'kernel': 'dotprod', 'length': 0.8, 'sigma_0': 1.1}
+-1644407241386.634 (+/-3288814482738.176); for {'kernel': 'dotprod', 'length': 0.8, 'sigma_0': 1.2}
+-127440341388923.422 (+/-251363407764210.656); for {'kernel': 'dotprod', 'length': 0.8, 'sigma_0': 1.3}
+-1644347456814.502 (+/-3288694913584.161); for {'kernel': 'dotprod', 'length': 0.8, 'sigma_0': 1.4}
+-1172183411974.623 (+/-2344366823760.157); for {'kernel': 'dotprod', 'length': 0.9, 'sigma_0': 0.5}
+-196947717248749.500 (+/-387314117782449.125); for {'kernel': 'dotprod', 'length': 0.9, 'sigma_0': 0.6}
+-56535576268.062 (+/-113071152281.508); for {'kernel': 'dotprod', 'length': 0.9, 'sigma_0': 0.7}
+-101240959832956.391 (+/-199271632636529.844); for {'kernel': 'dotprod', 'length': 0.9, 'sigma_0': 0.8}
+-98779712644021.047 (+/-197559425288037.906); for {'kernel': 'dotprod', 'length': 0.9, 'sigma_0': 0.9}
+-195439722603440.906 (+/-390374281643776.125); for {'kernel': 'dotprod', 'length': 0.9, 'sigma_0': 1.0}
+-36984274625719.688 (+/-67395027467187.836); for {'kernel': 'dotprod', 'length': 0.9, 'sigma_0': 1.1}
+-99734451708555.688 (+/-195048298662508.906); for {'kernel': 'dotprod', 'length': 0.9, 'sigma_0': 1.2}
+-34122637946131.316 (+/-65256280635236.367); for {'kernel': 'dotprod', 'length': 0.9, 'sigma_0': 1.3}
+-159668215404914.844 (+/-312763239360032.125); for {'kernel': 'dotprod', 'length': 0.9, 'sigma_0': 1.4}
+-68376713610916.500 (+/-131596398967460.875); for {'kernel': 'dotprod', 'length': 1.0, 'sigma_0': 0.5}
+-163843011650362.938 (+/-327686023300724.375); for {'kernel': 'dotprod', 'length': 1.0, 'sigma_0': 0.6}
+-195942271913127.625 (+/-388882986759613.375); for {'kernel': 'dotprod', 'length': 1.0, 'sigma_0': 0.7}
+-72396382419969.891 (+/-138211582731283.969); for {'kernel': 'dotprod', 'length': 1.0, 'sigma_0': 0.8}
+-196261511828566.625 (+/-389167295339829.250); for {'kernel': 'dotprod', 'length': 1.0, 'sigma_0': 0.9}
+-197028370338493.625 (+/-387471039055616.688); for {'kernel': 'dotprod', 'length': 1.0, 'sigma_0': 1.0}
+-163868487092616.469 (+/-327720229259591.438); for {'kernel': 'dotprod', 'length': 1.0, 'sigma_0': 1.1}
+-196998855470611.156 (+/-387409482188446.875); for {'kernel': 'dotprod', 'length': 1.0, 'sigma_0': 1.2}
+-62.753 (+/-121.229); for {'kernel': 'dotprod', 'length': 1.0, 'sigma_0': 1.3}
+-98885818880802.984 (+/-197545760339204.781); for {'kernel': 'dotprod', 'length': 1.0, 'sigma_0': 1.4}
+-165649116193804.531 (+/-331298232387607.625); for {'kernel': 'dotprod', 'length': 1.1, 'sigma_0': 0.5}
+-195336544925901.875 (+/-390673089851798.625); for {'kernel': 'dotprod', 'length': 1.1, 'sigma_0': 0.6}
+-1162989106421.755 (+/-2325978212808.495); for {'kernel': 'dotprod', 'length': 1.1, 'sigma_0': 0.7}
+-89163397016685.922 (+/-178326794033371.562); for {'kernel': 'dotprod', 'length': 1.1, 'sigma_0': 0.8}
+-195305319720302.250 (+/-390382738369309.188); for {'kernel': 'dotprod', 'length': 1.1, 'sigma_0': 0.9}
+-3891931384.168 (+/-7783862738.530); for {'kernel': 'dotprod', 'length': 1.1, 'sigma_0': 1.0}
+-55932751743.062 (+/-111865503422.139); for {'kernel': 'dotprod', 'length': 1.1, 'sigma_0': 1.1}
+-876982962780.682 (+/-1753965925476.244); for {'kernel': 'dotprod', 'length': 1.1, 'sigma_0': 1.2}
+-31348479687840.543 (+/-56114439987390.617); for {'kernel': 'dotprod', 'length': 1.1, 'sigma_0': 1.3}
+-36711212743513.867 (+/-68042194091615.516); for {'kernel': 'dotprod', 'length': 1.1, 'sigma_0': 1.4}
+-32536427434406.184 (+/-60921870545696.344); for {'kernel': 'dotprod', 'length': 1.2, 'sigma_0': 0.5}
+-195163971384714.219 (+/-390327942769429.000); for {'kernel': 'dotprod', 'length': 1.2, 'sigma_0': 0.6}
+-138464504342289.703 (+/-273210140996892.312); for {'kernel': 'dotprod', 'length': 1.2, 'sigma_0': 0.7}
+-196219053100390.750 (+/-388849995974469.500); for {'kernel': 'dotprod', 'length': 1.2, 'sigma_0': 0.8}
+-161782056659896.406 (+/-323564113319793.938); for {'kernel': 'dotprod', 'length': 1.2, 'sigma_0': 0.9}
+-158389005563041.406 (+/-315140379736319.625); for {'kernel': 'dotprod', 'length': 1.2, 'sigma_0': 1.0}
+-196165482935737.156 (+/-388729490167990.562); for {'kernel': 'dotprod', 'length': 1.2, 'sigma_0': 1.1}
+-4.703 (+/-9.918); for {'kernel': 'dotprod', 'length': 1.2, 'sigma_0': 1.2}
+-196182444565003.344 (+/-389383354623046.812); for {'kernel': 'dotprod', 'length': 1.2, 'sigma_0': 1.3}
+-195480973774042.344 (+/-390961947548085.312); for {'kernel': 'dotprod', 'length': 1.2, 'sigma_0': 1.4}
+-93729526991694.172 (+/-184612438675730.312); for {'kernel': 'dotprod', 'length': 1.3, 'sigma_0': 0.5}
+-1160397115153.404 (+/-2320794230288.477); for {'kernel': 'dotprod', 'length': 1.3, 'sigma_0': 0.6}
+-159510036263030.781 (+/-312438387870376.750); for {'kernel': 'dotprod', 'length': 1.3, 'sigma_0': 0.7}
+-11.575 (+/-24.545); for {'kernel': 'dotprod', 'length': 1.3, 'sigma_0': 0.8}
+-836137141985.612 (+/-1672274283961.237); for {'kernel': 'dotprod', 'length': 1.3, 'sigma_0': 0.9}
+-161831698268664.531 (+/-323663396537330.062); for {'kernel': 'dotprod', 'length': 1.3, 'sigma_0': 1.0}
+-1228599447295.945 (+/-2457198894561.843); for {'kernel': 'dotprod', 'length': 1.3, 'sigma_0': 1.1}
+-196971483171168.000 (+/-387358865364247.312); for {'kernel': 'dotprod', 'length': 1.3, 'sigma_0': 1.2}
+-166667951981577.219 (+/-329754989499154.250); for {'kernel': 'dotprod', 'length': 1.3, 'sigma_0': 1.3}
+-159755067531513.219 (+/-312924491570090.375); for {'kernel': 'dotprod', 'length': 1.3, 'sigma_0': 1.4}
+-94801283858714.953 (+/-189602567717430.406); for {'kernel': 'dotprod', 'length': 1.4, 'sigma_0': 0.5}
+-36972089158949.320 (+/-67368062584812.984); for {'kernel': 'dotprod', 'length': 1.4, 'sigma_0': 0.6}
+-96289741685255.641 (+/-185999863018807.531); for {'kernel': 'dotprod', 'length': 1.4, 'sigma_0': 0.7}
+-29672121164721.074 (+/-52756325421827.961); for {'kernel': 'dotprod', 'length': 1.4, 'sigma_0': 0.8}
+-95119612230220.688 (+/-189040919565191.469); for {'kernel': 'dotprod', 'length': 1.4, 'sigma_0': 0.9}
+-186287245637.432 (+/-372574491240.311); for {'kernel': 'dotprod', 'length': 1.4, 'sigma_0': 1.0}
+-137027874770871.547 (+/-269350754135467.625); for {'kernel': 'dotprod', 'length': 1.4, 'sigma_0': 1.1}
+-196921019716385.094 (+/-387256775824629.438); for {'kernel': 'dotprod', 'length': 1.4, 'sigma_0': 1.2}
+-96996867457454.734 (+/-193769970963831.375); for {'kernel': 'dotprod', 'length': 1.4, 'sigma_0': 1.3}
+-197118797745648.344 (+/-387670732250920.000); for {'kernel': 'dotprod', 'length': 1.4, 'sigma_0': 1.4}
+-12191261306.526 (+/-24382522615.047); for {'kernel': 'expsin', 'length': 0.1, 'periodicity': 0.5}
+-1856576773226804.000 (+/-3504888060525509.000); for {'kernel': 'expsin', 'length': 0.1, 'periodicity': 0.6}
+-1836321201491813.250 (+/-3215535070982546.500); for {'kernel': 'expsin', 'length': 0.1, 'periodicity': 0.7}
+-3001761.676 (+/-6003523.837); for {'kernel': 'expsin', 'length': 0.1, 'periodicity': 0.8}
+-25165251809871.004 (+/-50330175851171.273); for {'kernel': 'expsin', 'length': 0.1, 'periodicity': 0.9}
+-41211254144899.836 (+/-82422449478572.172); for {'kernel': 'expsin', 'length': 0.1, 'periodicity': 1.0}
+-9008678008242.209 (+/-18017354959217.227); for {'kernel': 'expsin', 'length': 0.1, 'periodicity': 1.1}
+-7294427568208.485 (+/-14588650187267.984); for {'kernel': 'expsin', 'length': 0.1, 'periodicity': 1.2}
+-70805939401363.109 (+/-141611878802728.219); for {'kernel': 'expsin', 'length': 0.1, 'periodicity': 1.3}
+-31889633950441.770 (+/-63779267900883.477); for {'kernel': 'expsin', 'length': 0.1, 'periodicity': 1.4}
+-649666783836702.125 (+/-1299333567673404.750); for {'kernel': 'expsin', 'length': 0.2, 'periodicity': 0.5}
+-30505053872024.785 (+/-61009976458720.570); for {'kernel': 'expsin', 'length': 0.2, 'periodicity': 0.6}
+-51040792473449.305 (+/-100194614838212.375); for {'kernel': 'expsin', 'length': 0.2, 'periodicity': 0.7}
+-9227679200372558.000 (+/-18235125596380676.000); for {'kernel': 'expsin', 'length': 0.2, 'periodicity': 0.8}
+-57546767455813.070 (+/-115093534911628.141); for {'kernel': 'expsin', 'length': 0.2, 'periodicity': 0.9}
+-110110667866599.500 (+/-105215607422021.062); for {'kernel': 'expsin', 'length': 0.2, 'periodicity': 1.0}
+0.999 (+/-0.003); for {'kernel': 'expsin', 'length': 0.2, 'periodicity': 1.1}
+-35402309957157.562 (+/-70804144051980.203); for {'kernel': 'expsin', 'length': 0.2, 'periodicity': 1.2}
+0.999 (+/-0.003); for {'kernel': 'expsin', 'length': 0.2, 'periodicity': 1.3}
+0.999 (+/-0.003); for {'kernel': 'expsin', 'length': 0.2, 'periodicity': 1.4}
+-105550611725774.672 (+/-196458558819678.594); for {'kernel': 'expsin', 'length': 0.3, 'periodicity': 0.5}
+-15927566365326.898 (+/-31855082613668.207); for {'kernel': 'expsin', 'length': 0.3, 'periodicity': 0.6}
+-48248604202744.148 (+/-82706848904164.891); for {'kernel': 'expsin', 'length': 0.3, 'periodicity': 0.7}
+-17012967.117 (+/-33808996.082); for {'kernel': 'expsin', 'length': 0.3, 'periodicity': 0.8}
+-1420910632874620.000 (+/-2841821265700384.500); for {'kernel': 'expsin', 'length': 0.3, 'periodicity': 0.9}
+0.999 (+/-0.003); for {'kernel': 'expsin', 'length': 0.3, 'periodicity': 1.0}
+-6986874889268.367 (+/-13973749778538.730); for {'kernel': 'expsin', 'length': 0.3, 'periodicity': 1.1}
+-45113197197635.211 (+/-90226394395270.359); for {'kernel': 'expsin', 'length': 0.3, 'periodicity': 1.2}
+0.999 (+/-0.003); for {'kernel': 'expsin', 'length': 0.3, 'periodicity': 1.3}
+0.999 (+/-0.003); for {'kernel': 'expsin', 'length': 0.3, 'periodicity': 1.4}
+-34384454487544.594 (+/-29342007152381.207); for {'kernel': 'expsin', 'length': 0.4, 'periodicity': 0.5}
+-29876439285924.949 (+/-59752878546590.156); for {'kernel': 'expsin', 'length': 0.4, 'periodicity': 0.6}
+-71319215319980.172 (+/-94622988754116.266); for {'kernel': 'expsin', 'length': 0.4, 'periodicity': 0.7}
+-25677019705165.359 (+/-51354039337584.281); for {'kernel': 'expsin', 'length': 0.4, 'periodicity': 0.8}
+-33869147224382.113 (+/-67738294448766.227); for {'kernel': 'expsin', 'length': 0.4, 'periodicity': 0.9}
+0.615 (+/-0.769); for {'kernel': 'expsin', 'length': 0.4, 'periodicity': 1.0}
+-102462528162317.734 (+/-181366330746677.875); for {'kernel': 'expsin', 'length': 0.4, 'periodicity': 1.1}
+-28525103438068.262 (+/-57050203353022.414); for {'kernel': 'expsin', 'length': 0.4, 'periodicity': 1.2}
+-2710813161.544 (+/-5421626323.574); for {'kernel': 'expsin', 'length': 0.4, 'periodicity': 1.3}
+0.999 (+/-0.003); for {'kernel': 'expsin', 'length': 0.4, 'periodicity': 1.4}
+-76602868269070.641 (+/-153205736535584.844); for {'kernel': 'expsin', 'length': 0.5, 'periodicity': 0.5}
+-29186076035440.520 (+/-58372152070880.039); for {'kernel': 'expsin', 'length': 0.5, 'periodicity': 0.6}
+-64994162470514.344 (+/-92570133400996.562); for {'kernel': 'expsin', 'length': 0.5, 'periodicity': 0.7}
+0.370 (+/-1.255); for {'kernel': 'expsin', 'length': 0.5, 'periodicity': 0.8}
+-13000406801843.557 (+/-26000813603689.109); for {'kernel': 'expsin', 'length': 0.5, 'periodicity': 0.9}
+0.999 (+/-0.003); for {'kernel': 'expsin', 'length': 0.5, 'periodicity': 1.0}
+-23990403673744.598 (+/-16184753158491.465); for {'kernel': 'expsin', 'length': 0.5, 'periodicity': 1.1}
+-0.147 (+/-0.989); for {'kernel': 'expsin', 'length': 0.5, 'periodicity': 1.2}
+0.254 (+/-0.855); for {'kernel': 'expsin', 'length': 0.5, 'periodicity': 1.3}
+0.999 (+/-0.003); for {'kernel': 'expsin', 'length': 0.5, 'periodicity': 1.4}
+-96422280617410.250 (+/-148666046247915.156); for {'kernel': 'expsin', 'length': 0.6, 'periodicity': 0.5}
+-13946577492865.666 (+/-27893154941828.707); for {'kernel': 'expsin', 'length': 0.6, 'periodicity': 0.6}
+-112672975132163.250 (+/-225345950260979.375); for {'kernel': 'expsin', 'length': 0.6, 'periodicity': 0.7}
+-1094665680130461.875 (+/-1920775760549998.750); for {'kernel': 'expsin', 'length': 0.6, 'periodicity': 0.8}
+-67053752095728.461 (+/-89397555451968.859); for {'kernel': 'expsin', 'length': 0.6, 'periodicity': 0.9}
+0.999 (+/-0.003); for {'kernel': 'expsin', 'length': 0.6, 'periodicity': 1.0}
+-96826918693330.000 (+/-193653837384892.750); for {'kernel': 'expsin', 'length': 0.6, 'periodicity': 1.1}
+-1632.455 (+/-3264.256); for {'kernel': 'expsin', 'length': 0.6, 'periodicity': 1.2}
+-0.382 (+/-2.155); for {'kernel': 'expsin', 'length': 0.6, 'periodicity': 1.3}
+0.999 (+/-0.003); for {'kernel': 'expsin', 'length': 0.6, 'periodicity': 1.4}
+-101851251186895.422 (+/-200692480853136.969); for {'kernel': 'expsin', 'length': 0.7, 'periodicity': 0.5}
+-82712117217519.734 (+/-165424234403245.625); for {'kernel': 'expsin', 'length': 0.7, 'periodicity': 0.6}
+-52424822504821.094 (+/-104849645008715.531); for {'kernel': 'expsin', 'length': 0.7, 'periodicity': 0.7}
+-63788165518530.281 (+/-56951004853818.906); for {'kernel': 'expsin', 'length': 0.7, 'periodicity': 0.8}
+-48671572578614.906 (+/-82438551855671.312); for {'kernel': 'expsin', 'length': 0.7, 'periodicity': 0.9}
+0.621 (+/-0.757); for {'kernel': 'expsin', 'length': 0.7, 'periodicity': 1.0}
+-75812045430764.250 (+/-151624090859582.594); for {'kernel': 'expsin', 'length': 0.7, 'periodicity': 1.1}
+-494198848.304 (+/-988397695.265); for {'kernel': 'expsin', 'length': 0.7, 'periodicity': 1.2}
+-12186275457.984 (+/-24372550917.389); for {'kernel': 'expsin', 'length': 0.7, 'periodicity': 1.3}
+0.999 (+/-0.003); for {'kernel': 'expsin', 'length': 0.7, 'periodicity': 1.4}
+-55862430480789.594 (+/-59980005777532.219); for {'kernel': 'expsin', 'length': 0.8, 'periodicity': 0.5}
+-30500496638713.340 (+/-61000993277428.680); for {'kernel': 'expsin', 'length': 0.8, 'periodicity': 0.6}
+-78304873862617.016 (+/-137058801790687.953); for {'kernel': 'expsin', 'length': 0.8, 'periodicity': 0.7}
+-30508746790681.359 (+/-41608831301099.641); for {'kernel': 'expsin', 'length': 0.8, 'periodicity': 0.8}
+-73256589329554.578 (+/-80315215228180.641); for {'kernel': 'expsin', 'length': 0.8, 'periodicity': 0.9}
+0.999 (+/-0.003); for {'kernel': 'expsin', 'length': 0.8, 'periodicity': 1.0}
+-102712920308974.188 (+/-186038745039936.062); for {'kernel': 'expsin', 'length': 0.8, 'periodicity': 1.1}
+0.300 (+/-0.202); for {'kernel': 'expsin', 'length': 0.8, 'periodicity': 1.2}
+0.842 (+/-0.233); for {'kernel': 'expsin', 'length': 0.8, 'periodicity': 1.3}
+0.999 (+/-0.003); for {'kernel': 'expsin', 'length': 0.8, 'periodicity': 1.4}
+-65049949469510.531 (+/-130099898939023.062); for {'kernel': 'expsin', 'length': 0.9, 'periodicity': 0.5}
+-65234659315983.320 (+/-130469318631966.578); for {'kernel': 'expsin', 'length': 0.9, 'periodicity': 0.6}
+-115375075444881.047 (+/-199166114240854.562); for {'kernel': 'expsin', 'length': 0.9, 'periodicity': 0.7}
+-136112104001746.688 (+/-82477798056869.297); for {'kernel': 'expsin', 'length': 0.9, 'periodicity': 0.8}
+-70264730076919.461 (+/-104886676525860.125); for {'kernel': 'expsin', 'length': 0.9, 'periodicity': 0.9}
+0.999 (+/-0.003); for {'kernel': 'expsin', 'length': 0.9, 'periodicity': 1.0}
+-91253356224202.953 (+/-160051189723059.938); for {'kernel': 'expsin', 'length': 0.9, 'periodicity': 1.1}
+-90062551968098.969 (+/-180125103936199.938); for {'kernel': 'expsin', 'length': 0.9, 'periodicity': 1.2}
+0.508 (+/-0.530); for {'kernel': 'expsin', 'length': 0.9, 'periodicity': 1.3}
+0.999 (+/-0.003); for {'kernel': 'expsin', 'length': 0.9, 'periodicity': 1.4}
+-11627.837 (+/-23257.674); for {'kernel': 'expsin', 'length': 1.0, 'periodicity': 0.5}
+-62002213765851.781 (+/-124004427531702.953); for {'kernel': 'expsin', 'length': 1.0, 'periodicity': 0.6}
+-58001143963724.430 (+/-90740315587782.109); for {'kernel': 'expsin', 'length': 1.0, 'periodicity': 0.7}
+-74963841071798.484 (+/-149927682138178.094); for {'kernel': 'expsin', 'length': 1.0, 'periodicity': 0.8}
+-23036845830081.809 (+/-46073691658718.664); for {'kernel': 'expsin', 'length': 1.0, 'periodicity': 0.9}
+0.999 (+/-0.003); for {'kernel': 'expsin', 'length': 1.0, 'periodicity': 1.0}
+-29984785471717.676 (+/-34432105143446.523); for {'kernel': 'expsin', 'length': 1.0, 'periodicity': 1.1}
+-78374189239220.625 (+/-82594376202617.078); for {'kernel': 'expsin', 'length': 1.0, 'periodicity': 1.2}
+0.999 (+/-0.003); for {'kernel': 'expsin', 'length': 1.0, 'periodicity': 1.3}
+-450.702 (+/-903.399); for {'kernel': 'expsin', 'length': 1.0, 'periodicity': 1.4}
+-20887.532 (+/-41777.063); for {'kernel': 'expsin', 'length': 1.1, 'periodicity': 0.5}
+-47491846484589.625 (+/-94983692969177.922); for {'kernel': 'expsin', 'length': 1.1, 'periodicity': 0.6}
+-13679648864685.383 (+/-27359297619943.949); for {'kernel': 'expsin', 'length': 1.1, 'periodicity': 0.7}
+-62742409540553.023 (+/-125484819081108.047); for {'kernel': 'expsin', 'length': 1.1, 'periodicity': 0.8}
+-6417999307801.379 (+/-12835998615604.752); for {'kernel': 'expsin', 'length': 1.1, 'periodicity': 0.9}
+0.999 (+/-0.003); for {'kernel': 'expsin', 'length': 1.1, 'periodicity': 1.0}
+-118594585809853.750 (+/-204475558990729.688); for {'kernel': 'expsin', 'length': 1.1, 'periodicity': 1.1}
+-120220483750451.203 (+/-240440967413656.656); for {'kernel': 'expsin', 'length': 1.1, 'periodicity': 1.2}
+0.999 (+/-0.003); for {'kernel': 'expsin', 'length': 1.1, 'periodicity': 1.3}
+0.999 (+/-0.003); for {'kernel': 'expsin', 'length': 1.1, 'periodicity': 1.4}
+-16324013192267.213 (+/-32648026384536.426); for {'kernel': 'expsin', 'length': 1.2, 'periodicity': 0.5}
+-32242805052300.887 (+/-64485610104602.523); for {'kernel': 'expsin', 'length': 1.2, 'periodicity': 0.6}
+-122927646095640.562 (+/-197038657112084.812); for {'kernel': 'expsin', 'length': 1.2, 'periodicity': 0.7}
+-127657697824669.125 (+/-255315395649340.250); for {'kernel': 'expsin', 'length': 1.2, 'periodicity': 0.8}
+-7144577997190.454 (+/-14289155994382.902); for {'kernel': 'expsin', 'length': 1.2, 'periodicity': 0.9}
+0.621 (+/-0.757); for {'kernel': 'expsin', 'length': 1.2, 'periodicity': 1.0}
+-122387009322334.500 (+/-244774018642656.812); for {'kernel': 'expsin', 'length': 1.2, 'periodicity': 1.1}
+-101493287439663.875 (+/-144683565824473.594); for {'kernel': 'expsin', 'length': 1.2, 'periodicity': 1.2}
+0.999 (+/-0.003); for {'kernel': 'expsin', 'length': 1.2, 'periodicity': 1.3}
+0.999 (+/-0.003); for {'kernel': 'expsin', 'length': 1.2, 'periodicity': 1.4}
+-94967228621876.000 (+/-189934457243754.000); for {'kernel': 'expsin', 'length': 1.3, 'periodicity': 0.5}
+-64342001877793.711 (+/-4115111528383.977); for {'kernel': 'expsin', 'length': 1.3, 'periodicity': 0.6}
+-99168524682800.922 (+/-157864864952031.562); for {'kernel': 'expsin', 'length': 1.3, 'periodicity': 0.7}
+-20662764623110.676 (+/-41325529246223.352); for {'kernel': 'expsin', 'length': 1.3, 'periodicity': 0.8}
+-7406396171584.909 (+/-14812792343170.303); for {'kernel': 'expsin', 'length': 1.3, 'periodicity': 0.9}
+0.621 (+/-0.757); for {'kernel': 'expsin', 'length': 1.3, 'periodicity': 1.0}
+-132491381356496.016 (+/-264982762711884.938); for {'kernel': 'expsin', 'length': 1.3, 'periodicity': 1.1}
+-426891102866318.562 (+/-363779449179308.062); for {'kernel': 'expsin', 'length': 1.3, 'periodicity': 1.2}
+0.999 (+/-0.003); for {'kernel': 'expsin', 'length': 1.3, 'periodicity': 1.3}
+0.621 (+/-0.757); for {'kernel': 'expsin', 'length': 1.3, 'periodicity': 1.4}
+-77740982391347.859 (+/-155481964782697.719); for {'kernel': 'expsin', 'length': 1.4, 'periodicity': 0.5}
+-6017.808 (+/-12035.007); for {'kernel': 'expsin', 'length': 1.4, 'periodicity': 0.6}
+-113888652344166.234 (+/-204535544228220.719); for {'kernel': 'expsin', 'length': 1.4, 'periodicity': 0.7}
+-149678648042915.938 (+/-299357296085833.875); for {'kernel': 'expsin', 'length': 1.4, 'periodicity': 0.8}
+-2141019182263.792 (+/-4282038364528.070); for {'kernel': 'expsin', 'length': 1.4, 'periodicity': 0.9}
+0.999 (+/-0.003); for {'kernel': 'expsin', 'length': 1.4, 'periodicity': 1.0}
+0.999 (+/-0.003); for {'kernel': 'expsin', 'length': 1.4, 'periodicity': 1.1}
+-253750622792465.469 (+/-393406632542107.062); for {'kernel': 'expsin', 'length': 1.4, 'periodicity': 1.2}
+0.621 (+/-0.757); for {'kernel': 'expsin', 'length': 1.4, 'periodicity': 1.3}
+-12187949806.582 (+/-24375899615.158); for {'kernel': 'expsin', 'length': 1.4, 'periodicity': 1.4}
+0.363 (+/-0.241); for {'kernel': 'exp', 'length': 0.1}
+0.183 (+/-0.436); for {'kernel': 'exp', 'length': 0.2}
+0.183 (+/-0.436); for {'kernel': 'exp', 'length': 0.3}
+0.183 (+/-0.436); for {'kernel': 'exp', 'length': 0.4}
+0.183 (+/-0.436); for {'kernel': 'exp', 'length': 0.5}
+0.183 (+/-0.436); for {'kernel': 'exp', 'length': 0.6}
+0.183 (+/-0.436); for {'kernel': 'exp', 'length': 0.7}
+0.183 (+/-0.436); for {'kernel': 'exp', 'length': 0.8}
+0.183 (+/-0.436); for {'kernel': 'exp', 'length': 0.9}
+0.183 (+/-0.436); for {'kernel': 'exp', 'length': 1.0}
+0.183 (+/-0.436); for {'kernel': 'exp', 'length': 1.1}
+0.183 (+/-0.436); for {'kernel': 'exp', 'length': 1.2}
+0.183 (+/-0.436); for {'kernel': 'exp', 'length': 1.3}
+0.183 (+/-0.436); for {'kernel': 'exp', 'length': 1.4}
+-3.065 (+/-0.989); for {'kernel': 'matern', 'length': 0.1, 'nu': 0.1}
+-4.988 (+/-1.950); for {'kernel': 'matern', 'length': 0.1, 'nu': 0.2}
+-4.859 (+/-4.651); for {'kernel': 'matern', 'length': 0.1, 'nu': 0.3}
+-3.945 (+/-5.826); for {'kernel': 'matern', 'length': 0.1, 'nu': 0.4}
+-2.534 (+/-5.413); for {'kernel': 'matern', 'length': 0.1, 'nu': 0.5}
+-1.261 (+/-4.209); for {'kernel': 'matern', 'length': 0.1, 'nu': 0.6}
+-0.260 (+/-2.499); for {'kernel': 'matern', 'length': 0.1, 'nu': 0.7}
+0.292 (+/-0.861); for {'kernel': 'matern', 'length': 0.1, 'nu': 0.8}
+0.425 (+/-0.509); for {'kernel': 'matern', 'length': 0.1, 'nu': 0.9}
+0.442 (+/-1.102); for {'kernel': 'matern', 'length': 0.1, 'nu': 1.0}
+0.296 (+/-1.363); for {'kernel': 'matern', 'length': 0.1, 'nu': 1.1}
+0.489 (+/-0.815); for {'kernel': 'matern', 'length': 0.1, 'nu': 1.2}
+0.492 (+/-0.462); for {'kernel': 'matern', 'length': 0.1, 'nu': 1.3}
+0.635 (+/-0.657); for {'kernel': 'matern', 'length': 0.1, 'nu': 1.4}
+-3.065 (+/-0.989); for {'kernel': 'matern', 'length': 0.2, 'nu': 0.1}
+-4.988 (+/-1.950); for {'kernel': 'matern', 'length': 0.2, 'nu': 0.2}
+-4.876 (+/-4.663); for {'kernel': 'matern', 'length': 0.2, 'nu': 0.3}
+-3.806 (+/-5.808); for {'kernel': 'matern', 'length': 0.2, 'nu': 0.4}
+-2.534 (+/-5.413); for {'kernel': 'matern', 'length': 0.2, 'nu': 0.5}
+-1.268 (+/-4.223); for {'kernel': 'matern', 'length': 0.2, 'nu': 0.6}
+-0.261 (+/-2.500); for {'kernel': 'matern', 'length': 0.2, 'nu': 0.7}
+0.279 (+/-0.838); for {'kernel': 'matern', 'length': 0.2, 'nu': 0.8}
+0.437 (+/-0.474); for {'kernel': 'matern', 'length': 0.2, 'nu': 0.9}
+0.231 (+/-1.500); for {'kernel': 'matern', 'length': 0.2, 'nu': 1.0}
+0.082 (+/-1.683); for {'kernel': 'matern', 'length': 0.2, 'nu': 1.1}
+-0.130 (+/-2.022); for {'kernel': 'matern', 'length': 0.2, 'nu': 1.2}
+0.421 (+/-0.995); for {'kernel': 'matern', 'length': 0.2, 'nu': 1.3}
+-0.052 (+/-1.606); for {'kernel': 'matern', 'length': 0.2, 'nu': 1.4}
+-3.065 (+/-0.989); for {'kernel': 'matern', 'length': 0.3, 'nu': 0.1}
+-4.988 (+/-1.950); for {'kernel': 'matern', 'length': 0.3, 'nu': 0.2}
+-4.901 (+/-4.652); for {'kernel': 'matern', 'length': 0.3, 'nu': 0.3}
+-3.865 (+/-5.744); for {'kernel': 'matern', 'length': 0.3, 'nu': 0.4}
+-2.534 (+/-5.413); for {'kernel': 'matern', 'length': 0.3, 'nu': 0.5}
+-1.240 (+/-4.162); for {'kernel': 'matern', 'length': 0.3, 'nu': 0.6}
+-0.231 (+/-2.445); for {'kernel': 'matern', 'length': 0.3, 'nu': 0.7}
+0.237 (+/-0.749); for {'kernel': 'matern', 'length': 0.3, 'nu': 0.8}
+0.395 (+/-0.543); for {'kernel': 'matern', 'length': 0.3, 'nu': 0.9}
+0.334 (+/-1.275); for {'kernel': 'matern', 'length': 0.3, 'nu': 1.0}
+0.087 (+/-1.722); for {'kernel': 'matern', 'length': 0.3, 'nu': 1.1}
+0.079 (+/-1.453); for {'kernel': 'matern', 'length': 0.3, 'nu': 1.2}
+0.409 (+/-0.900); for {'kernel': 'matern', 'length': 0.3, 'nu': 1.3}
+0.135 (+/-1.084); for {'kernel': 'matern', 'length': 0.3, 'nu': 1.4}
+-3.065 (+/-0.989); for {'kernel': 'matern', 'length': 0.4, 'nu': 0.1}
+-4.988 (+/-1.950); for {'kernel': 'matern', 'length': 0.4, 'nu': 0.2}
+-4.861 (+/-4.649); for {'kernel': 'matern', 'length': 0.4, 'nu': 0.3}
+-3.936 (+/-5.838); for {'kernel': 'matern', 'length': 0.4, 'nu': 0.4}
+-2.534 (+/-5.413); for {'kernel': 'matern', 'length': 0.4, 'nu': 0.5}
+-1.350 (+/-4.381); for {'kernel': 'matern', 'length': 0.4, 'nu': 0.6}
+-0.254 (+/-2.482); for {'kernel': 'matern', 'length': 0.4, 'nu': 0.7}
+0.263 (+/-0.759); for {'kernel': 'matern', 'length': 0.4, 'nu': 0.8}
+0.335 (+/-0.751); for {'kernel': 'matern', 'length': 0.4, 'nu': 0.9}
+0.451 (+/-1.076); for {'kernel': 'matern', 'length': 0.4, 'nu': 1.0}
+-0.088 (+/-2.061); for {'kernel': 'matern', 'length': 0.4, 'nu': 1.1}
+-0.657 (+/-3.007); for {'kernel': 'matern', 'length': 0.4, 'nu': 1.2}
+-0.688 (+/-3.086); for {'kernel': 'matern', 'length': 0.4, 'nu': 1.3}
+-0.187 (+/-1.851); for {'kernel': 'matern', 'length': 0.4, 'nu': 1.4}
+-3.065 (+/-0.989); for {'kernel': 'matern', 'length': 0.5, 'nu': 0.1}
+-4.988 (+/-1.950); for {'kernel': 'matern', 'length': 0.5, 'nu': 0.2}
+-4.833 (+/-4.590); for {'kernel': 'matern', 'length': 0.5, 'nu': 0.3}
+-3.864 (+/-5.727); for {'kernel': 'matern', 'length': 0.5, 'nu': 0.4}
+-2.534 (+/-5.413); for {'kernel': 'matern', 'length': 0.5, 'nu': 0.5}
+-1.264 (+/-4.210); for {'kernel': 'matern', 'length': 0.5, 'nu': 0.6}
+-0.328 (+/-2.640); for {'kernel': 'matern', 'length': 0.5, 'nu': 0.7}
+0.274 (+/-0.809); for {'kernel': 'matern', 'length': 0.5, 'nu': 0.8}
+0.459 (+/-0.426); for {'kernel': 'matern', 'length': 0.5, 'nu': 0.9}
+0.242 (+/-1.496); for {'kernel': 'matern', 'length': 0.5, 'nu': 1.0}
+-0.469 (+/-2.759); for {'kernel': 'matern', 'length': 0.5, 'nu': 1.1}
+-70554286.751 (+/-141108569.397); for {'kernel': 'matern', 'length': 0.5, 'nu': 1.2}
+0.284 (+/-0.978); for {'kernel': 'matern', 'length': 0.5, 'nu': 1.3}
+0.657 (+/-0.327); for {'kernel': 'matern', 'length': 0.5, 'nu': 1.4}
+-3.065 (+/-0.989); for {'kernel': 'matern', 'length': 0.6, 'nu': 0.1}
+-4.988 (+/-1.950); for {'kernel': 'matern', 'length': 0.6, 'nu': 0.2}
+-4.844 (+/-4.593); for {'kernel': 'matern', 'length': 0.6, 'nu': 0.3}
+-3.929 (+/-5.875); for {'kernel': 'matern', 'length': 0.6, 'nu': 0.4}
+-2.534 (+/-5.413); for {'kernel': 'matern', 'length': 0.6, 'nu': 0.5}
+-1.205 (+/-4.094); for {'kernel': 'matern', 'length': 0.6, 'nu': 0.6}
+-0.236 (+/-2.436); for {'kernel': 'matern', 'length': 0.6, 'nu': 0.7}
+0.261 (+/-0.786); for {'kernel': 'matern', 'length': 0.6, 'nu': 0.8}
+0.182 (+/-0.925); for {'kernel': 'matern', 'length': 0.6, 'nu': 0.9}
+-0.029 (+/-2.035); for {'kernel': 'matern', 'length': 0.6, 'nu': 1.0}
+0.325 (+/-1.240); for {'kernel': 'matern', 'length': 0.6, 'nu': 1.1}
+0.390 (+/-0.819); for {'kernel': 'matern', 'length': 0.6, 'nu': 1.2}
+0.291 (+/-1.010); for {'kernel': 'matern', 'length': 0.6, 'nu': 1.3}
+0.418 (+/-0.408); for {'kernel': 'matern', 'length': 0.6, 'nu': 1.4}
+-3.065 (+/-0.989); for {'kernel': 'matern', 'length': 0.7, 'nu': 0.1}
+-4.988 (+/-1.950); for {'kernel': 'matern', 'length': 0.7, 'nu': 0.2}
+-4.842 (+/-4.600); for {'kernel': 'matern', 'length': 0.7, 'nu': 0.3}
+-3.876 (+/-5.733); for {'kernel': 'matern', 'length': 0.7, 'nu': 0.4}
+-2.534 (+/-5.413); for {'kernel': 'matern', 'length': 0.7, 'nu': 0.5}
+-1.241 (+/-4.169); for {'kernel': 'matern', 'length': 0.7, 'nu': 0.6}
+-0.267 (+/-2.515); for {'kernel': 'matern', 'length': 0.7, 'nu': 0.7}
+0.211 (+/-0.996); for {'kernel': 'matern', 'length': 0.7, 'nu': 0.8}
+0.353 (+/-0.566); for {'kernel': 'matern', 'length': 0.7, 'nu': 0.9}
+0.222 (+/-1.538); for {'kernel': 'matern', 'length': 0.7, 'nu': 1.0}
+0.326 (+/-1.203); for {'kernel': 'matern', 'length': 0.7, 'nu': 1.1}
+0.178 (+/-1.451); for {'kernel': 'matern', 'length': 0.7, 'nu': 1.2}
+0.495 (+/-0.467); for {'kernel': 'matern', 'length': 0.7, 'nu': 1.3}
+0.605 (+/-0.556); for {'kernel': 'matern', 'length': 0.7, 'nu': 1.4}
+-3.065 (+/-0.989); for {'kernel': 'matern', 'length': 0.8, 'nu': 0.1}
+-4.988 (+/-1.950); for {'kernel': 'matern', 'length': 0.8, 'nu': 0.2}
+-4.846 (+/-4.596); for {'kernel': 'matern', 'length': 0.8, 'nu': 0.3}
+-3.940 (+/-5.862); for {'kernel': 'matern', 'length': 0.8, 'nu': 0.4}
+-2.534 (+/-5.413); for {'kernel': 'matern', 'length': 0.8, 'nu': 0.5}
+-1.248 (+/-4.179); for {'kernel': 'matern', 'length': 0.8, 'nu': 0.6}
+-0.282 (+/-2.542); for {'kernel': 'matern', 'length': 0.8, 'nu': 0.7}
+0.244 (+/-0.858); for {'kernel': 'matern', 'length': 0.8, 'nu': 0.8}
+0.527 (+/-0.327); for {'kernel': 'matern', 'length': 0.8, 'nu': 0.9}
+0.058 (+/-1.861); for {'kernel': 'matern', 'length': 0.8, 'nu': 1.0}
+-0.332 (+/-2.636); for {'kernel': 'matern', 'length': 0.8, 'nu': 1.1}
+0.338 (+/-1.013); for {'kernel': 'matern', 'length': 0.8, 'nu': 1.2}
+-0.043 (+/-1.653); for {'kernel': 'matern', 'length': 0.8, 'nu': 1.3}
+0.659 (+/-0.595); for {'kernel': 'matern', 'length': 0.8, 'nu': 1.4}
+-3.065 (+/-0.989); for {'kernel': 'matern', 'length': 0.9, 'nu': 0.1}
+-4.988 (+/-1.950); for {'kernel': 'matern', 'length': 0.9, 'nu': 0.2}
+-4.895 (+/-4.736); for {'kernel': 'matern', 'length': 0.9, 'nu': 0.3}
+-3.858 (+/-5.760); for {'kernel': 'matern', 'length': 0.9, 'nu': 0.4}
+-2.534 (+/-5.413); for {'kernel': 'matern', 'length': 0.9, 'nu': 0.5}
+-1.237 (+/-4.158); for {'kernel': 'matern', 'length': 0.9, 'nu': 0.6}
+-0.270 (+/-2.515); for {'kernel': 'matern', 'length': 0.9, 'nu': 0.7}
+0.262 (+/-0.793); for {'kernel': 'matern', 'length': 0.9, 'nu': 0.8}
+0.372 (+/-0.615); for {'kernel': 'matern', 'length': 0.9, 'nu': 0.9}
+-0.000 (+/-1.969); for {'kernel': 'matern', 'length': 0.9, 'nu': 1.0}
+-0.104 (+/-2.078); for {'kernel': 'matern', 'length': 0.9, 'nu': 1.1}
+0.441 (+/-0.613); for {'kernel': 'matern', 'length': 0.9, 'nu': 1.2}
+0.597 (+/-0.738); for {'kernel': 'matern', 'length': 0.9, 'nu': 1.3}
+0.585 (+/-0.614); for {'kernel': 'matern', 'length': 0.9, 'nu': 1.4}
+-3.065 (+/-0.989); for {'kernel': 'matern', 'length': 1.0, 'nu': 0.1}
+-4.988 (+/-1.950); for {'kernel': 'matern', 'length': 1.0, 'nu': 0.2}
+-4.856 (+/-4.613); for {'kernel': 'matern', 'length': 1.0, 'nu': 0.3}
+-3.927 (+/-5.854); for {'kernel': 'matern', 'length': 1.0, 'nu': 0.4}
+-2.534 (+/-5.413); for {'kernel': 'matern', 'length': 1.0, 'nu': 0.5}
+-1.241 (+/-4.192); for {'kernel': 'matern', 'length': 1.0, 'nu': 0.6}
+-0.330 (+/-2.627); for {'kernel': 'matern', 'length': 1.0, 'nu': 0.7}
+0.289 (+/-0.786); for {'kernel': 'matern', 'length': 1.0, 'nu': 0.8}
+0.360 (+/-0.677); for {'kernel': 'matern', 'length': 1.0, 'nu': 0.9}
+0.218 (+/-1.530); for {'kernel': 'matern', 'length': 1.0, 'nu': 1.0}
+-0.199 (+/-2.352); for {'kernel': 'matern', 'length': 1.0, 'nu': 1.1}
+0.356 (+/-0.917); for {'kernel': 'matern', 'length': 1.0, 'nu': 1.2}
+0.551 (+/-0.443); for {'kernel': 'matern', 'length': 1.0, 'nu': 1.3}
+0.582 (+/-0.638); for {'kernel': 'matern', 'length': 1.0, 'nu': 1.4}
+-3.065 (+/-0.989); for {'kernel': 'matern', 'length': 1.1, 'nu': 0.1}
+-4.988 (+/-1.950); for {'kernel': 'matern', 'length': 1.1, 'nu': 0.2}
+-4.844 (+/-4.608); for {'kernel': 'matern', 'length': 1.1, 'nu': 0.3}
+-3.941 (+/-5.909); for {'kernel': 'matern', 'length': 1.1, 'nu': 0.4}
+-2.534 (+/-5.413); for {'kernel': 'matern', 'length': 1.1, 'nu': 0.5}
+-1.241 (+/-4.168); for {'kernel': 'matern', 'length': 1.1, 'nu': 0.6}
+-0.268 (+/-2.513); for {'kernel': 'matern', 'length': 1.1, 'nu': 0.7}
+0.264 (+/-0.804); for {'kernel': 'matern', 'length': 1.1, 'nu': 0.8}
+0.395 (+/-0.615); for {'kernel': 'matern', 'length': 1.1, 'nu': 0.9}
+0.280 (+/-1.423); for {'kernel': 'matern', 'length': 1.1, 'nu': 1.0}
+0.321 (+/-1.303); for {'kernel': 'matern', 'length': 1.1, 'nu': 1.1}
+0.325 (+/-0.821); for {'kernel': 'matern', 'length': 1.1, 'nu': 1.2}
+0.581 (+/-0.687); for {'kernel': 'matern', 'length': 1.1, 'nu': 1.3}
+0.518 (+/-0.750); for {'kernel': 'matern', 'length': 1.1, 'nu': 1.4}
+-3.065 (+/-0.989); for {'kernel': 'matern', 'length': 1.2, 'nu': 0.1}
+-4.988 (+/-1.950); for {'kernel': 'matern', 'length': 1.2, 'nu': 0.2}
+-4.841 (+/-4.620); for {'kernel': 'matern', 'length': 1.2, 'nu': 0.3}
+-3.908 (+/-5.660); for {'kernel': 'matern', 'length': 1.2, 'nu': 0.4}
+-2.534 (+/-5.413); for {'kernel': 'matern', 'length': 1.2, 'nu': 0.5}
+-1.247 (+/-4.180); for {'kernel': 'matern', 'length': 1.2, 'nu': 0.6}
+-0.265 (+/-2.510); for {'kernel': 'matern', 'length': 1.2, 'nu': 0.7}
+0.274 (+/-0.823); for {'kernel': 'matern', 'length': 1.2, 'nu': 0.8}
+0.476 (+/-0.742); for {'kernel': 'matern', 'length': 1.2, 'nu': 0.9}
+0.345 (+/-1.273); for {'kernel': 'matern', 'length': 1.2, 'nu': 1.0}
+0.080 (+/-1.741); for {'kernel': 'matern', 'length': 1.2, 'nu': 1.1}
+0.370 (+/-0.992); for {'kernel': 'matern', 'length': 1.2, 'nu': 1.2}
+0.502 (+/-0.785); for {'kernel': 'matern', 'length': 1.2, 'nu': 1.3}
+0.589 (+/-0.572); for {'kernel': 'matern', 'length': 1.2, 'nu': 1.4}
+-3.065 (+/-0.989); for {'kernel': 'matern', 'length': 1.3, 'nu': 0.1}
+-4.988 (+/-1.950); for {'kernel': 'matern', 'length': 1.3, 'nu': 0.2}
+-4.852 (+/-4.609); for {'kernel': 'matern', 'length': 1.3, 'nu': 0.3}
+-3.859 (+/-5.748); for {'kernel': 'matern', 'length': 1.3, 'nu': 0.4}
+-2.534 (+/-5.413); for {'kernel': 'matern', 'length': 1.3, 'nu': 0.5}
+-1.225 (+/-4.134); for {'kernel': 'matern', 'length': 1.3, 'nu': 0.6}
+-0.241 (+/-2.463); for {'kernel': 'matern', 'length': 1.3, 'nu': 0.7}
+0.250 (+/-0.781); for {'kernel': 'matern', 'length': 1.3, 'nu': 0.8}
+0.342 (+/-0.659); for {'kernel': 'matern', 'length': 1.3, 'nu': 0.9}
+0.373 (+/-1.214); for {'kernel': 'matern', 'length': 1.3, 'nu': 1.0}
+0.061 (+/-1.798); for {'kernel': 'matern', 'length': 1.3, 'nu': 1.1}
+0.046 (+/-1.668); for {'kernel': 'matern', 'length': 1.3, 'nu': 1.2}
+0.524 (+/-0.474); for {'kernel': 'matern', 'length': 1.3, 'nu': 1.3}
+0.636 (+/-0.494); for {'kernel': 'matern', 'length': 1.3, 'nu': 1.4}
+-3.065 (+/-0.989); for {'kernel': 'matern', 'length': 1.4, 'nu': 0.1}
+-4.988 (+/-1.950); for {'kernel': 'matern', 'length': 1.4, 'nu': 0.2}
+-4.738 (+/-4.394); for {'kernel': 'matern', 'length': 1.4, 'nu': 0.3}
+-3.811 (+/-5.651); for {'kernel': 'matern', 'length': 1.4, 'nu': 0.4}
+-2.534 (+/-5.413); for {'kernel': 'matern', 'length': 1.4, 'nu': 0.5}
+-1.238 (+/-4.162); for {'kernel': 'matern', 'length': 1.4, 'nu': 0.6}
+-0.257 (+/-2.495); for {'kernel': 'matern', 'length': 1.4, 'nu': 0.7}
+0.262 (+/-0.796); for {'kernel': 'matern', 'length': 1.4, 'nu': 0.8}
+0.405 (+/-0.369); for {'kernel': 'matern', 'length': 1.4, 'nu': 0.9}
+0.215 (+/-1.558); for {'kernel': 'matern', 'length': 1.4, 'nu': 1.0}
+0.238 (+/-1.481); for {'kernel': 'matern', 'length': 1.4, 'nu': 1.1}
+0.371 (+/-0.865); for {'kernel': 'matern', 'length': 1.4, 'nu': 1.2}
+0.491 (+/-0.653); for {'kernel': 'matern', 'length': 1.4, 'nu': 1.3}
+0.635 (+/-0.407); for {'kernel': 'matern', 'length': 1.4, 'nu': 1.4}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.5, 'kernel': 'pairwise', 'length': 0.5}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.5, 'kernel': 'pairwise', 'length': 0.6}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.5, 'kernel': 'pairwise', 'length': 0.7}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.5, 'kernel': 'pairwise', 'length': 0.8}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.5, 'kernel': 'pairwise', 'length': 0.9}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.5, 'kernel': 'pairwise', 'length': 1.0}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.5, 'kernel': 'pairwise', 'length': 1.1}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.5, 'kernel': 'pairwise', 'length': 1.2}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.5, 'kernel': 'pairwise', 'length': 1.3}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.5, 'kernel': 'pairwise', 'length': 1.4}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.6, 'kernel': 'pairwise', 'length': 0.5}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.6, 'kernel': 'pairwise', 'length': 0.6}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.6, 'kernel': 'pairwise', 'length': 0.7}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.6, 'kernel': 'pairwise', 'length': 0.8}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.6, 'kernel': 'pairwise', 'length': 0.9}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.6, 'kernel': 'pairwise', 'length': 1.0}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.6, 'kernel': 'pairwise', 'length': 1.1}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.6, 'kernel': 'pairwise', 'length': 1.2}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.6, 'kernel': 'pairwise', 'length': 1.3}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.6, 'kernel': 'pairwise', 'length': 1.4}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.7, 'kernel': 'pairwise', 'length': 0.5}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.7, 'kernel': 'pairwise', 'length': 0.6}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.7, 'kernel': 'pairwise', 'length': 0.7}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.7, 'kernel': 'pairwise', 'length': 0.8}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.7, 'kernel': 'pairwise', 'length': 0.9}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.7, 'kernel': 'pairwise', 'length': 1.0}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.7, 'kernel': 'pairwise', 'length': 1.1}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.7, 'kernel': 'pairwise', 'length': 1.2}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.7, 'kernel': 'pairwise', 'length': 1.3}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.7, 'kernel': 'pairwise', 'length': 1.4}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.8, 'kernel': 'pairwise', 'length': 0.5}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.8, 'kernel': 'pairwise', 'length': 0.6}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.8, 'kernel': 'pairwise', 'length': 0.7}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.8, 'kernel': 'pairwise', 'length': 0.8}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.8, 'kernel': 'pairwise', 'length': 0.9}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.8, 'kernel': 'pairwise', 'length': 1.0}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.8, 'kernel': 'pairwise', 'length': 1.1}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.8, 'kernel': 'pairwise', 'length': 1.2}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.8, 'kernel': 'pairwise', 'length': 1.3}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.8, 'kernel': 'pairwise', 'length': 1.4}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.9, 'kernel': 'pairwise', 'length': 0.5}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.9, 'kernel': 'pairwise', 'length': 0.6}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.9, 'kernel': 'pairwise', 'length': 0.7}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.9, 'kernel': 'pairwise', 'length': 0.8}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.9, 'kernel': 'pairwise', 'length': 0.9}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.9, 'kernel': 'pairwise', 'length': 1.0}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.9, 'kernel': 'pairwise', 'length': 1.1}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.9, 'kernel': 'pairwise', 'length': 1.2}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.9, 'kernel': 'pairwise', 'length': 1.3}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 1.9, 'kernel': 'pairwise', 'length': 1.4}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.0, 'kernel': 'pairwise', 'length': 0.5}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.0, 'kernel': 'pairwise', 'length': 0.6}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.0, 'kernel': 'pairwise', 'length': 0.7}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.0, 'kernel': 'pairwise', 'length': 0.8}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.0, 'kernel': 'pairwise', 'length': 0.9}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.0, 'kernel': 'pairwise', 'length': 1.0}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.0, 'kernel': 'pairwise', 'length': 1.1}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.0, 'kernel': 'pairwise', 'length': 1.2}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.0, 'kernel': 'pairwise', 'length': 1.3}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.0, 'kernel': 'pairwise', 'length': 1.4}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.1, 'kernel': 'pairwise', 'length': 0.5}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.1, 'kernel': 'pairwise', 'length': 0.6}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.1, 'kernel': 'pairwise', 'length': 0.7}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.1, 'kernel': 'pairwise', 'length': 0.8}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.1, 'kernel': 'pairwise', 'length': 0.9}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.1, 'kernel': 'pairwise', 'length': 1.0}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.1, 'kernel': 'pairwise', 'length': 1.1}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.1, 'kernel': 'pairwise', 'length': 1.2}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.1, 'kernel': 'pairwise', 'length': 1.3}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.1, 'kernel': 'pairwise', 'length': 1.4}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.2, 'kernel': 'pairwise', 'length': 0.5}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.2, 'kernel': 'pairwise', 'length': 0.6}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.2, 'kernel': 'pairwise', 'length': 0.7}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.2, 'kernel': 'pairwise', 'length': 0.8}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.2, 'kernel': 'pairwise', 'length': 0.9}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.2, 'kernel': 'pairwise', 'length': 1.0}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.2, 'kernel': 'pairwise', 'length': 1.1}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.2, 'kernel': 'pairwise', 'length': 1.2}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.2, 'kernel': 'pairwise', 'length': 1.3}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.2, 'kernel': 'pairwise', 'length': 1.4}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.3, 'kernel': 'pairwise', 'length': 0.5}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.3, 'kernel': 'pairwise', 'length': 0.6}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.3, 'kernel': 'pairwise', 'length': 0.7}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.3, 'kernel': 'pairwise', 'length': 0.8}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.3, 'kernel': 'pairwise', 'length': 0.9}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.3, 'kernel': 'pairwise', 'length': 1.0}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.3, 'kernel': 'pairwise', 'length': 1.1}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.3, 'kernel': 'pairwise', 'length': 1.2}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.3, 'kernel': 'pairwise', 'length': 1.3}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.3, 'kernel': 'pairwise', 'length': 1.4}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.4, 'kernel': 'pairwise', 'length': 0.5}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.4, 'kernel': 'pairwise', 'length': 0.6}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.4, 'kernel': 'pairwise', 'length': 0.7}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.4, 'kernel': 'pairwise', 'length': 0.8}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.4, 'kernel': 'pairwise', 'length': 0.9}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.4, 'kernel': 'pairwise', 'length': 1.0}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.4, 'kernel': 'pairwise', 'length': 1.1}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.4, 'kernel': 'pairwise', 'length': 1.2}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.4, 'kernel': 'pairwise', 'length': 1.3}
+-1204471249278932.250 (+/-753050624728937.125); for {'gamma': 2.4, 'kernel': 'pairwise', 'length': 1.4}
+0.183 (+/-0.436); for {'kernel': 'rbf', 'length': 0.5}
+0.183 (+/-0.436); for {'kernel': 'rbf', 'length': 0.6}
+0.183 (+/-0.436); for {'kernel': 'rbf', 'length': 0.7}
+0.183 (+/-0.436); for {'kernel': 'rbf', 'length': 0.8}
+0.183 (+/-0.436); for {'kernel': 'rbf', 'length': 0.9}
+0.183 (+/-0.436); for {'kernel': 'rbf', 'length': 1.0}
+0.183 (+/-0.436); for {'kernel': 'rbf', 'length': 1.1}
+0.183 (+/-0.436); for {'kernel': 'rbf', 'length': 1.2}
+0.183 (+/-0.436); for {'kernel': 'rbf', 'length': 1.3}
+0.183 (+/-0.436); for {'kernel': 'rbf', 'length': 1.4}
+0.183 (+/-0.436); for {'kernel': 'rbf', 'length': 1.5}
+0.183 (+/-0.436); for {'kernel': 'rbf', 'length': 1.6}
+0.183 (+/-0.436); for {'kernel': 'rbf', 'length': 1.7}
+0.183 (+/-0.436); for {'kernel': 'rbf', 'length': 1.8}
+0.183 (+/-0.436); for {'kernel': 'rbf', 'length': 1.9}
+-0.929 (+/-0.216); for {'alpha_rquad': 0.5, 'kernel': 'rquad', 'length': 0.5}
+-243167796364.722 (+/-486335592727.832); for {'alpha_rquad': 0.5, 'kernel': 'rquad', 'length': 0.6}
+-78559598767.818 (+/-157119197523.917); for {'alpha_rquad': 0.5, 'kernel': 'rquad', 'length': 0.7}
+-3152619693.373 (+/-6305239377.952); for {'alpha_rquad': 0.5, 'kernel': 'rquad', 'length': 0.8}
+-3152226401.645 (+/-6304452801.720); for {'alpha_rquad': 0.5, 'kernel': 'rquad', 'length': 0.9}
+-0.103 (+/-1.450); for {'alpha_rquad': 0.5, 'kernel': 'rquad', 'length': 1.0}
+-243156377654.447 (+/-486312755303.379); for {'alpha_rquad': 0.5, 'kernel': 'rquad', 'length': 1.1}
+-0.146 (+/-1.302); for {'alpha_rquad': 0.5, 'kernel': 'rquad', 'length': 1.2}
+-2.926 (+/-4.272); for {'alpha_rquad': 0.5, 'kernel': 'rquad', 'length': 1.3}
+-78552036686.557 (+/-157104073371.573); for {'alpha_rquad': 0.5, 'kernel': 'rquad', 'length': 1.4}
+-2880726922.073 (+/-5761453836.258); for {'alpha_rquad': 0.6, 'kernel': 'rquad', 'length': 0.5}
+-0.314 (+/-0.986); for {'alpha_rquad': 0.6, 'kernel': 'rquad', 'length': 0.6}
+-19209104228.334 (+/-38418208455.093); for {'alpha_rquad': 0.6, 'kernel': 'rquad', 'length': 0.7}
+-78563369570.456 (+/-157126739139.359); for {'alpha_rquad': 0.6, 'kernel': 'rquad', 'length': 0.8}
+-78558976958.440 (+/-157117953912.967); for {'alpha_rquad': 0.6, 'kernel': 'rquad', 'length': 0.9}
+-0.359 (+/-0.894); for {'alpha_rquad': 0.6, 'kernel': 'rquad', 'length': 1.0}
+-270893265.334 (+/-541786529.064); for {'alpha_rquad': 0.6, 'kernel': 'rquad', 'length': 1.1}
+-78572189856.651 (+/-157144379711.627); for {'alpha_rquad': 0.6, 'kernel': 'rquad', 'length': 1.2}
+-17959496826.173 (+/-35918993650.728); for {'alpha_rquad': 0.6, 'kernel': 'rquad', 'length': 1.3}
+-0.164 (+/-1.324); for {'alpha_rquad': 0.6, 'kernel': 'rquad', 'length': 1.4}
+-0.177 (+/-1.236); for {'alpha_rquad': 0.7, 'kernel': 'rquad', 'length': 0.5}
+-78559534394.982 (+/-157119068788.329); for {'alpha_rquad': 0.7, 'kernel': 'rquad', 'length': 0.6}
+-78554949487.908 (+/-157109898974.227); for {'alpha_rquad': 0.7, 'kernel': 'rquad', 'length': 0.7}
+-0.103 (+/-1.446); for {'alpha_rquad': 0.7, 'kernel': 'rquad', 'length': 0.8}
+-0.141 (+/-1.312); for {'alpha_rquad': 0.7, 'kernel': 'rquad', 'length': 0.9}
+-1446066356.485 (+/-2892132711.405); for {'alpha_rquad': 0.7, 'kernel': 'rquad', 'length': 1.0}
+-0.778 (+/-0.032); for {'alpha_rquad': 0.7, 'kernel': 'rquad', 'length': 1.1}
+-0.485 (+/-0.582); for {'alpha_rquad': 0.7, 'kernel': 'rquad', 'length': 1.2}
+-0.152 (+/-1.264); for {'alpha_rquad': 0.7, 'kernel': 'rquad', 'length': 1.3}
+-78548155742.385 (+/-157096311479.170); for {'alpha_rquad': 0.7, 'kernel': 'rquad', 'length': 1.4}
+-0.075 (+/-1.396); for {'alpha_rquad': 0.8, 'kernel': 'rquad', 'length': 0.5}
+-0.193 (+/-1.216); for {'alpha_rquad': 0.8, 'kernel': 'rquad', 'length': 0.6}
+-78567000436.039 (+/-157134000870.497); for {'alpha_rquad': 0.8, 'kernel': 'rquad', 'length': 0.7}
+-6.555 (+/-13.461); for {'alpha_rquad': 0.8, 'kernel': 'rquad', 'length': 0.8}
+-0.214 (+/-1.125); for {'alpha_rquad': 0.8, 'kernel': 'rquad', 'length': 0.9}
+-19206728086.926 (+/-38413456172.175); for {'alpha_rquad': 0.8, 'kernel': 'rquad', 'length': 1.0}
+-1.961 (+/-1.404); for {'alpha_rquad': 0.8, 'kernel': 'rquad', 'length': 1.1}
+-19205021539.437 (+/-38410043077.301); for {'alpha_rquad': 0.8, 'kernel': 'rquad', 'length': 1.2}
+-0.096 (+/-1.444); for {'alpha_rquad': 0.8, 'kernel': 'rquad', 'length': 1.3}
+-78558867135.777 (+/-157117734269.894); for {'alpha_rquad': 0.8, 'kernel': 'rquad', 'length': 1.4}
+-243165919990.947 (+/-486331839972.855); for {'alpha_rquad': 0.9, 'kernel': 'rquad', 'length': 0.5}
+-0.296 (+/-0.944); for {'alpha_rquad': 0.9, 'kernel': 'rquad', 'length': 0.6}
+-2880653646.252 (+/-5761307290.907); for {'alpha_rquad': 0.9, 'kernel': 'rquad', 'length': 0.7}
+-0.134 (+/-1.309); for {'alpha_rquad': 0.9, 'kernel': 'rquad', 'length': 0.8}
+-78550418140.320 (+/-157100836279.057); for {'alpha_rquad': 0.9, 'kernel': 'rquad', 'length': 0.9}
+-0.317 (+/-1.003); for {'alpha_rquad': 0.9, 'kernel': 'rquad', 'length': 1.0}
+-0.162 (+/-1.344); for {'alpha_rquad': 0.9, 'kernel': 'rquad', 'length': 1.1}
+-0.787 (+/-0.003); for {'alpha_rquad': 0.9, 'kernel': 'rquad', 'length': 1.2}
+-78553038467.102 (+/-157106076932.567); for {'alpha_rquad': 0.9, 'kernel': 'rquad', 'length': 1.3}
+-278371476.324 (+/-556742951.071); for {'alpha_rquad': 0.9, 'kernel': 'rquad', 'length': 1.4}
+-0.134 (+/-1.324); for {'alpha_rquad': 1.0, 'kernel': 'rquad', 'length': 0.5}
+-0.076 (+/-1.404); for {'alpha_rquad': 1.0, 'kernel': 'rquad', 'length': 0.6}
+-0.092 (+/-1.401); for {'alpha_rquad': 1.0, 'kernel': 'rquad', 'length': 0.7}
+-243167429022.613 (+/-486334858032.557); for {'alpha_rquad': 1.0, 'kernel': 'rquad', 'length': 0.8}
+-0.231 (+/-1.168); for {'alpha_rquad': 1.0, 'kernel': 'rquad', 'length': 0.9}
+-2.269 (+/-2.913); for {'alpha_rquad': 1.0, 'kernel': 'rquad', 'length': 1.0}
+-0.226 (+/-1.103); for {'alpha_rquad': 1.0, 'kernel': 'rquad', 'length': 1.1}
+-19193113599.984 (+/-38386227198.353); for {'alpha_rquad': 1.0, 'kernel': 'rquad', 'length': 1.2}
+-78561069724.866 (+/-157122139448.069); for {'alpha_rquad': 1.0, 'kernel': 'rquad', 'length': 1.3}
+-19206364043.642 (+/-38412728085.735); for {'alpha_rquad': 1.0, 'kernel': 'rquad', 'length': 1.4}
+-19210613413.577 (+/-38421226825.591); for {'alpha_rquad': 1.1, 'kernel': 'rquad', 'length': 0.5}
+-76316583828.877 (+/-152633167656.179); for {'alpha_rquad': 1.1, 'kernel': 'rquad', 'length': 0.6}
+-19206672313.031 (+/-38413344624.450); for {'alpha_rquad': 1.1, 'kernel': 'rquad', 'length': 0.7}
+-0.403 (+/-0.794); for {'alpha_rquad': 1.1, 'kernel': 'rquad', 'length': 0.8}
+-0.632 (+/-0.365); for {'alpha_rquad': 1.1, 'kernel': 'rquad', 'length': 0.9}
+-0.984 (+/-1.775); for {'alpha_rquad': 1.1, 'kernel': 'rquad', 'length': 1.0}
+-78559336589.616 (+/-157118673177.694); for {'alpha_rquad': 1.1, 'kernel': 'rquad', 'length': 1.1}
+-0.056 (+/-1.485); for {'alpha_rquad': 1.1, 'kernel': 'rquad', 'length': 1.2}
+-78559427933.690 (+/-157118855857.701); for {'alpha_rquad': 1.1, 'kernel': 'rquad', 'length': 1.3}
+-78559326187.214 (+/-157118652372.839); for {'alpha_rquad': 1.1, 'kernel': 'rquad', 'length': 1.4}
+-1.575 (+/-4.511); for {'alpha_rquad': 1.2, 'kernel': 'rquad', 'length': 0.5}
+-4.704 (+/-7.842); for {'alpha_rquad': 1.2, 'kernel': 'rquad', 'length': 0.6}
+-0.174 (+/-1.257); for {'alpha_rquad': 1.2, 'kernel': 'rquad', 'length': 0.7}
+-1.310 (+/-0.986); for {'alpha_rquad': 1.2, 'kernel': 'rquad', 'length': 0.8}
+-78550212856.589 (+/-157100425711.577); for {'alpha_rquad': 1.2, 'kernel': 'rquad', 'length': 0.9}
+-19202154656.137 (+/-38404309310.597); for {'alpha_rquad': 1.2, 'kernel': 'rquad', 'length': 1.0}
+-5866577.396 (+/-11733153.236); for {'alpha_rquad': 1.2, 'kernel': 'rquad', 'length': 1.1}
+-19206789829.478 (+/-38413579657.297); for {'alpha_rquad': 1.2, 'kernel': 'rquad', 'length': 1.2}
+-0.178 (+/-1.308); for {'alpha_rquad': 1.2, 'kernel': 'rquad', 'length': 1.3}
+-0.136 (+/-1.326); for {'alpha_rquad': 1.2, 'kernel': 'rquad', 'length': 1.4}
+-78549367563.066 (+/-157098735124.506); for {'alpha_rquad': 1.3, 'kernel': 'rquad', 'length': 0.5}
+-78576102163.888 (+/-157152204326.195); for {'alpha_rquad': 1.3, 'kernel': 'rquad', 'length': 0.6}
+-675995798644.302 (+/-1351991597280.485); for {'alpha_rquad': 1.3, 'kernel': 'rquad', 'length': 0.7}
+-3907626.330 (+/-7815251.064); for {'alpha_rquad': 1.3, 'kernel': 'rquad', 'length': 0.8}
+-78560171909.475 (+/-157120343811.122); for {'alpha_rquad': 1.3, 'kernel': 'rquad', 'length': 0.9}
+-3150275265.470 (+/-6300550522.888); for {'alpha_rquad': 1.3, 'kernel': 'rquad', 'length': 1.0}
+-78586430925.272 (+/-157172861844.949); for {'alpha_rquad': 1.3, 'kernel': 'rquad', 'length': 1.1}
+-2.312 (+/-3.083); for {'alpha_rquad': 1.3, 'kernel': 'rquad', 'length': 1.2}
+-19201648984.089 (+/-38403297966.612); for {'alpha_rquad': 1.3, 'kernel': 'rquad', 'length': 1.3}
+-5.207 (+/-5.342); for {'alpha_rquad': 1.3, 'kernel': 'rquad', 'length': 1.4}
+-1.770 (+/-1.966); for {'alpha_rquad': 1.4, 'kernel': 'rquad', 'length': 0.5}
+-3151511167.394 (+/-6303022333.127); for {'alpha_rquad': 1.4, 'kernel': 'rquad', 'length': 0.6}
+-78460612302.268 (+/-156921224577.583); for {'alpha_rquad': 1.4, 'kernel': 'rquad', 'length': 0.7}
+-243105328726.850 (+/-486210657452.070); for {'alpha_rquad': 1.4, 'kernel': 'rquad', 'length': 0.8}
+-19207044366.635 (+/-38414088731.708); for {'alpha_rquad': 1.4, 'kernel': 'rquad', 'length': 0.9}
+-0.385 (+/-0.887); for {'alpha_rquad': 1.4, 'kernel': 'rquad', 'length': 1.0}
+-3151565587.683 (+/-6303131173.774); for {'alpha_rquad': 1.4, 'kernel': 'rquad', 'length': 1.1}
+-0.646 (+/-0.217); for {'alpha_rquad': 1.4, 'kernel': 'rquad', 'length': 1.2}
+-1.050 (+/-3.217); for {'alpha_rquad': 1.4, 'kernel': 'rquad', 'length': 1.3}
+-0.148 (+/-1.324); for {'alpha_rquad': 1.4, 'kernel': 'rquad', 'length': 1.4}
+-2.419 (+/-6.835); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.5}
+0.780 (+/-0.333); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.6}
+0.341 (+/-1.317); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.7}
+0.346 (+/-1.295); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.8}
+0.337 (+/-1.255); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.9}
+0.319 (+/-1.205); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.0}
+0.355 (+/-1.275); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.1}
+-596426.904 (+/-1192853.999); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.2}
+-209540.813 (+/-419081.055); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.3}
+0.325 (+/-1.323); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.4}
+-2.094 (+/-6.186); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.5}
+0.788 (+/-0.369); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.6}
+0.520 (+/-0.958); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.7}
+0.928 (+/-0.082); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.8}
+0.528 (+/-0.908); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.9}
+0.459 (+/-0.735); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.0}
+0.492 (+/-0.959); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.1}
+0.318 (+/-0.546); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.2}
+0.350 (+/-1.300); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.3}
+0.648 (+/-0.699); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.4}
+-3.031 (+/-8.058); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.5}
+0.857 (+/-0.193); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.6}
+0.660 (+/-0.676); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.7}
+0.647 (+/-0.569); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.8}
+0.666 (+/-0.559); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.9}
+0.198 (+/-0.506); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.0}
+0.378 (+/-0.931); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.1}
+-1393944.512 (+/-2787889.617); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.2}
+0.987 (+/-0.019); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.3}
+0.068 (+/-1.758); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.4}
+-2.545 (+/-7.087); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.5}
+0.720 (+/-0.505); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.6}
+0.840 (+/-0.310); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.7}
+0.705 (+/-0.589); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.8}
+0.671 (+/-0.556); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.9}
+0.506 (+/-0.800); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.0}
+0.473 (+/-0.723); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.1}
+-514791.217 (+/-1029583.753); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.2}
+-4184151.571 (+/-8368303.171); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.3}
+-400776.305 (+/-801552.786); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.4}
+-2.609 (+/-7.216); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.5}
+0.859 (+/-0.197); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.6}
+0.799 (+/-0.402); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.7}
+0.863 (+/-0.166); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.8}
+0.320 (+/-0.029); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.9}
+-277478961.939 (+/-554957925.854); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.0}
+0.531 (+/-0.446); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.1}
+-550740.998 (+/-1101482.443); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.2}
+0.434 (+/-1.092); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.3}
+-2352630518.627 (+/-4705261036.960); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.4}
+-2.664 (+/-7.325); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.5}
+0.736 (+/-0.465); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.6}
+0.905 (+/-0.187); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.7}
+0.693 (+/-0.506); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.8}
+-106134712.492 (+/-212269426.967); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.9}
+0.979 (+/-0.036); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.0}
+0.477 (+/-1.037); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.1}
+-0.462 (+/-2.917); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.2}
+0.476 (+/-1.030); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.3}
+-2174819.761 (+/-4349637.693); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.4}
+-2.610 (+/-7.212); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.5}
+0.785 (+/-0.358); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.6}
+0.804 (+/-0.389); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.7}
+0.777 (+/-0.380); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.8}
+-67512552.615 (+/-135025107.104); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.9}
+0.562 (+/-0.873); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.0}
+-144837021.358 (+/-289674044.521); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.1}
+-0.681 (+/-3.322); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.2}
+0.514 (+/-0.963); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.3}
+0.137 (+/-1.230); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.4}
+-2.448 (+/-6.893); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.5}
+0.819 (+/-0.316); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.6}
+0.831 (+/-0.326); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.7}
+0.987 (+/-0.023); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.8}
+0.544 (+/-0.905); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.9}
+0.752 (+/-0.488); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.0}
+0.183 (+/-0.436); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.1}
+-0.274 (+/-0.757); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.2}
+0.941 (+/-0.095); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.3}
+-0.924 (+/-0.777); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.4}
+-2.603 (+/-7.197); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.5}
+0.762 (+/-0.011); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.6}
+0.931 (+/-0.100); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.7}
+0.647 (+/-0.706); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.8}
+-233804519.821 (+/-467609041.438); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.9}
+0.855 (+/-0.210); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.0}
+0.702 (+/-0.567); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.1}
+0.355 (+/-0.779); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.2}
+0.138 (+/-0.040); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.3}
+0.772 (+/-0.425); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.4}
+-1.937 (+/-5.872); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.5}
+0.799 (+/-0.252); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.6}
+-3456259.287 (+/-6912519.842); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.7}
+0.754 (+/-0.492); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.8}
+0.869 (+/-0.029); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.9}
+-25352889.619 (+/-50705776.184); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.0}
+0.051 (+/-1.875); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.1}
+-1.085 (+/-1.567); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.2}
+0.594 (+/-0.750); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.3}
+-0.198 (+/-1.615); for {'alpha_rquad': 0.5, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.4}
+-2.905 (+/-7.807); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.5}
+0.833 (+/-0.238); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.6}
+0.327 (+/-1.342); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.7}
+0.335 (+/-1.323); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.8}
+0.329 (+/-1.284); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.9}
+0.313 (+/-1.234); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.0}
+0.318 (+/-1.227); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.1}
+0.285 (+/-1.172); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.2}
+0.336 (+/-1.257); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.3}
+0.327 (+/-1.345); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.4}
+-2.226 (+/-6.448); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.5}
+0.871 (+/-0.174); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.6}
+0.509 (+/-0.981); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.7}
+0.555 (+/-0.846); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.8}
+0.524 (+/-0.941); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.9}
+0.453 (+/-0.766); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.0}
+0.478 (+/-1.041); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.1}
+0.302 (+/-0.522); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.2}
+-12839.301 (+/-25677.954); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.3}
+0.713 (+/-0.572); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.4}
+-3.683 (+/-9.363); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.5}
+0.683 (+/-0.372); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.6}
+0.653 (+/-0.693); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.7}
+0.650 (+/-0.596); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.8}
+0.577 (+/-0.390); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.9}
+0.234 (+/-0.528); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.0}
+0.346 (+/-0.895); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.1}
+-279249.806 (+/-558500.238); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.2}
+0.994 (+/-0.009); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.3}
+-0.978 (+/-3.949); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.4}
+-946187027123.854 (+/-1892374054249.705); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.5}
+0.695 (+/-0.495); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.6}
+0.850 (+/-0.284); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.7}
+0.627 (+/-0.723); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.8}
+0.587 (+/-0.741); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.9}
+0.501 (+/-0.819); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.0}
+0.573 (+/-0.820); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.1}
+0.509 (+/-0.827); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.2}
+0.627 (+/-0.742); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.3}
+0.527 (+/-0.903); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.4}
+-942626067196.019 (+/-1885252134394.035); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.5}
+0.810 (+/-0.321); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.6}
+0.725 (+/-0.541); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.7}
+0.870 (+/-0.177); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.8}
+0.642 (+/-0.537); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.9}
+0.427 (+/-1.145); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.0}
+0.616 (+/-0.764); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.1}
+-15281007.532 (+/-30562015.548); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.2}
+0.104 (+/-1.746); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.3}
+-0.045 (+/-0.107); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.4}
+-2.623 (+/-7.244); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.5}
+0.847 (+/-0.196); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.6}
+0.903 (+/-0.193); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.7}
+0.695 (+/-0.524); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.8}
+-5250891.612 (+/-10501785.221); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.9}
+-1115468466.126 (+/-2230936934.180); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.0}
+0.475 (+/-1.050); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.1}
+-0.844 (+/-3.557); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.2}
+0.186 (+/-1.605); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.3}
+0.472 (+/-1.038); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.4}
+-2.636 (+/-7.239); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.5}
+0.786 (+/-0.372); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.6}
+0.876 (+/-0.244); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.7}
+0.757 (+/-0.366); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.8}
+-1938022329.565 (+/-3876044661.056); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.9}
+0.506 (+/-0.986); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.0}
+-2166185042.712 (+/-4332370087.244); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.1}
+-0.298 (+/-2.553); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.2}
+0.501 (+/-0.956); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.3}
+-2718596181.502 (+/-5437192363.027); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.4}
+-2.171 (+/-6.338); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.5}
+0.788 (+/-0.343); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.6}
+0.965 (+/-0.066); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.7}
+0.998 (+/-0.000); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.8}
+0.537 (+/-0.912); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.9}
+0.610 (+/-0.773); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.0}
+0.183 (+/-0.436); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.1}
+-0.230 (+/-0.635); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.2}
+0.562 (+/-0.855); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.3}
+-2.485 (+/-5.532); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.4}
+-1.629 (+/-5.244); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.5}
+0.735 (+/-0.027); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.6}
+0.840 (+/-0.303); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.7}
+0.246 (+/-1.509); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.8}
+0.401 (+/-0.901); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.9}
+0.996 (+/-0.006); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.0}
+0.568 (+/-0.842); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.1}
+0.351 (+/-0.772); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.2}
+0.470 (+/-1.053); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.3}
+0.367 (+/-0.569); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.4}
+-1.965 (+/-5.928); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.5}
+0.758 (+/-0.360); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.6}
+-2895171298.098 (+/-5790342598.174); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.7}
+0.626 (+/-0.739); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.8}
+0.942 (+/-0.113); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.9}
+-0.563 (+/-0.497); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.0}
+-3.802 (+/-9.589); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.1}
+-0.382 (+/-1.033); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.2}
+-0.181 (+/-0.087); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.3}
+-111961217.736 (+/-223922436.240); for {'alpha_rquad': 0.6, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.4}
+-2.247 (+/-6.492); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.5}
+0.551 (+/-0.820); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.6}
+0.315 (+/-1.362); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.7}
+0.325 (+/-1.345); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.8}
+0.322 (+/-1.309); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.9}
+0.306 (+/-1.255); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.0}
+0.610 (+/-0.654); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.1}
+0.339 (+/-1.305); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.2}
+-129294.772 (+/-258590.336); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.3}
+0.305 (+/-1.378); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.4}
+-2.420 (+/-6.838); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.5}
+0.876 (+/-0.074); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.6}
+0.499 (+/-0.999); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.7}
+0.507 (+/-0.953); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.8}
+0.693 (+/-0.548); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.9}
+0.454 (+/-0.832); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.0}
+0.497 (+/-1.003); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.1}
+-1069151.609 (+/-2138303.290); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.2}
+-37389.079 (+/-74777.564); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.3}
+0.338 (+/-1.320); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.4}
+-2.167 (+/-6.330); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.5}
+0.603 (+/-0.735); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.6}
+0.646 (+/-0.708); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.7}
+0.650 (+/-0.617); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.8}
+0.587 (+/-0.420); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.9}
+-2061642.647 (+/-4123285.718); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.0}
+0.374 (+/-0.895); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.1}
+-22624667.381 (+/-45249334.920); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.2}
+0.916 (+/-0.164); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.3}
+-0.935 (+/-3.830); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.4}
+-2.288 (+/-6.573); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.5}
+0.773 (+/-0.367); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.6}
+0.699 (+/-0.594); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.7}
+0.730 (+/-0.536); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.8}
+0.523 (+/-0.880); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.9}
+0.498 (+/-0.837); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.0}
+0.458 (+/-0.753); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.1}
+0.734 (+/-0.242); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.2}
+-248580.909 (+/-497161.795); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.3}
+-19472.989 (+/-38946.114); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.4}
+-2.544 (+/-7.085); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.5}
+0.726 (+/-0.492); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.6}
+0.885 (+/-0.225); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.7}
+0.875 (+/-0.188); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.8}
+0.373 (+/-0.172); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.9}
+-0.186 (+/-2.134); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.0}
+0.856 (+/-0.235); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.1}
+0.647 (+/-0.348); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.2}
+0.425 (+/-1.108); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.3}
+-0.121 (+/-0.014); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.4}
+-2.123 (+/-6.240); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.5}
+0.810 (+/-0.364); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.6}
+0.899 (+/-0.199); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.7}
+0.707 (+/-0.563); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.8}
+0.624 (+/-0.750); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.9}
+0.991 (+/-0.016); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.0}
+-0.185 (+/-2.325); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.1}
+-986719036.489 (+/-1973438069.735); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.2}
+0.467 (+/-1.045); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.3}
+0.474 (+/-1.008); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.4}
+-2.719 (+/-7.435); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.5}
+0.773 (+/-0.382); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.6}
+0.999 (+/-0.002); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.7}
+0.789 (+/-0.421); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.8}
+0.994 (+/-0.012); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.9}
+0.721 (+/-0.558); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.0}
+0.972 (+/-0.015); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.1}
+-0.065 (+/-2.114); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.2}
+0.495 (+/-0.962); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.3}
+0.252 (+/-0.236); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.4}
+-2.625 (+/-7.244); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.5}
+0.804 (+/-0.318); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.6}
+0.958 (+/-0.070); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.7}
+0.998 (+/-0.002); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.8}
+0.539 (+/-0.914); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.9}
+0.484 (+/-1.015); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.0}
+-0.192 (+/-1.186); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.1}
+-0.278 (+/-0.714); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.2}
+0.272 (+/-1.306); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.3}
+-12038344.010 (+/-24076688.994); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.4}
+-2.095 (+/-6.189); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.5}
+0.706 (+/-0.037); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.6}
+0.969 (+/-0.039); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.7}
+0.463 (+/-1.072); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.8}
+-351904615.357 (+/-703809232.549); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.9}
+0.835 (+/-0.321); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.0}
+0.565 (+/-0.852); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.1}
+0.238 (+/-0.546); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.2}
+-201736572.320 (+/-403473145.288); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.3}
+0.212 (+/-0.129); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.4}
+-2.223 (+/-6.440); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.5}
+0.832 (+/-0.138); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.6}
+0.765 (+/-0.433); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.7}
+0.763 (+/-0.473); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.8}
+-3247364899.743 (+/-6494729801.341); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.9}
+-1.345 (+/-2.157); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.0}
+-2.951 (+/-7.895); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.1}
+-6208395606.387 (+/-12416791214.465); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.2}
+0.576 (+/-0.746); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.3}
+-715140695.229 (+/-1430281390.453); for {'alpha_rquad': 0.7, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.4}
+-2.079 (+/-6.146); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.5}
+0.839 (+/-0.264); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.6}
+0.305 (+/-1.379); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.7}
+0.317 (+/-1.364); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.8}
+0.316 (+/-1.329); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.9}
+0.302 (+/-1.278); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.0}
+0.330 (+/-1.293); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.1}
+0.273 (+/-1.203); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.2}
+-192787.848 (+/-385576.584); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.3}
+0.317 (+/-1.365); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.4}
+-2.712 (+/-7.420); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.5}
+0.444 (+/-0.995); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.6}
+0.491 (+/-1.015); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.7}
+0.502 (+/-0.971); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.8}
+0.785 (+/-0.424); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.9}
+0.562 (+/-0.737); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.0}
+0.453 (+/-0.993); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.1}
+-17661315.105 (+/-35322629.624); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.2}
+-59385.897 (+/-118771.321); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.3}
+0.324 (+/-1.331); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.4}
+-2.911 (+/-7.819); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.5}
+0.878 (+/-0.177); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.6}
+0.639 (+/-0.720); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.7}
+0.649 (+/-0.634); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.8}
+0.685 (+/-0.627); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.9}
+0.523 (+/-0.930); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.0}
+0.322 (+/-0.824); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.1}
+0.254 (+/-0.159); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.2}
+-152386504.820 (+/-304773011.599); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.3}
+-168109770.196 (+/-336219534.589); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.4}
+-944080619420.175 (+/-1888161238842.329); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.5}
+0.812 (+/-0.264); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.6}
+0.721 (+/-0.546); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.7}
+0.627 (+/-0.740); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.8}
+0.542 (+/-0.853); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.9}
+0.497 (+/-0.764); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.0}
+-1159834.272 (+/-2319669.811); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.1}
+0.512 (+/-0.873); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.2}
+-1317428197.068 (+/-2634856394.187); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.3}
+-367194.184 (+/-734388.405); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.4}
+-91804354151.117 (+/-183608708291.074); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.5}
+0.728 (+/-0.419); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.6}
+0.798 (+/-0.393); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.7}
+0.878 (+/-0.195); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.8}
+0.477 (+/-0.100); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.9}
+0.861 (+/-0.059); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.0}
+0.613 (+/-0.721); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.1}
+-5915504.798 (+/-11831010.515); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.2}
+0.425 (+/-1.120); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.3}
+-2607330274.083 (+/-5214660548.614); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.4}
+-0.033 (+/-2.064); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.5}
+0.790 (+/-0.233); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.6}
+0.895 (+/-0.204); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.7}
+0.690 (+/-0.565); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.8}
+0.923 (+/-0.102); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.9}
+0.975 (+/-0.045); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.0}
+0.467 (+/-1.057); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.1}
+-715202857.547 (+/-1430405712.663); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.2}
+0.463 (+/-1.051); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.3}
+0.457 (+/-1.037); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.4}
+-2.360 (+/-6.717); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.5}
+0.851 (+/-0.236); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.6}
+0.834 (+/-0.328); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.7}
+0.746 (+/-0.419); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.8}
+0.996 (+/-0.006); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.9}
+0.842 (+/-0.314); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.0}
+0.963 (+/-0.020); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.1}
+0.155 (+/-1.647); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.2}
+0.491 (+/-0.968); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.3}
+0.604 (+/-0.775); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.4}
+-2.243 (+/-6.481); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.5}
+0.775 (+/-0.349); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.6}
+0.953 (+/-0.078); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.7}
+0.121 (+/-1.756); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.8}
+0.964 (+/-0.072); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.9}
+0.665 (+/-0.663); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.0}
+-0.452 (+/-1.707); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.1}
+-9629660.793 (+/-19259320.840); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.2}
+0.717 (+/-0.516); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.3}
+0.740 (+/-0.286); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.4}
+-2.671 (+/-7.334); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.5}
+0.688 (+/-0.064); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.6}
+0.958 (+/-0.040); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.7}
+0.550 (+/-0.900); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.8}
+0.940 (+/-0.016); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.9}
+0.883 (+/-0.223); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.0}
+0.331 (+/-1.324); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.1}
+-0.233 (+/-0.397); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.2}
+0.898 (+/-0.103); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.3}
+0.644 (+/-0.710); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.4}
+-2.923 (+/-7.842); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.5}
+0.612 (+/-0.739); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.6}
+0.961 (+/-0.031); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.7}
+0.662 (+/-0.672); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.8}
+-5311148239.868 (+/-10622296481.649); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.9}
+-78585056571.125 (+/-157170113140.621); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.0}
+0.907 (+/-0.180); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.1}
+-5997834717.282 (+/-11995669434.951); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.2}
+0.395 (+/-0.378); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.3}
+0.350 (+/-0.323); for {'alpha_rquad': 0.8, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.4}
+-1.961 (+/-5.919); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.5}
+0.888 (+/-0.152); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.6}
+0.295 (+/-1.391); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.7}
+0.310 (+/-1.380); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.8}
+0.310 (+/-1.347); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.9}
+0.298 (+/-1.297); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.0}
+0.676 (+/-0.543); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.1}
+0.292 (+/-1.147); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.2}
+0.698 (+/-0.552); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.3}
+0.307 (+/-1.373); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.4}
+-51032148823.054 (+/-102064297634.749); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.5}
+0.849 (+/-0.248); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.6}
+0.483 (+/-1.028); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.7}
+0.496 (+/-0.988); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.8}
+0.481 (+/-0.918); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.9}
+0.498 (+/-0.982); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.0}
+0.741 (+/-0.511); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.1}
+-662077.411 (+/-1324154.877); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.2}
+0.771 (+/-0.359); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.3}
+0.322 (+/-1.352); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.4}
+-2.169 (+/-6.328); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.5}
+0.582 (+/-0.752); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.6}
+0.633 (+/-0.731); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.7}
+0.647 (+/-0.649); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.8}
+0.672 (+/-0.613); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.9}
+-406524.207 (+/-813049.629); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.0}
+0.398 (+/-1.072); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.1}
+0.131 (+/-0.363); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.2}
+0.953 (+/-0.010); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.3}
+-2013165.959 (+/-4026326.645); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.4}
+-2.419 (+/-6.813); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.5}
+0.658 (+/-0.502); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.6}
+0.689 (+/-0.611); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.7}
+0.864 (+/-0.272); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.8}
+0.523 (+/-0.930); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.9}
+0.491 (+/-0.874); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.0}
+-1231275.737 (+/-2462551.594); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.1}
+0.745 (+/-0.288); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.2}
+-92444830.058 (+/-184889661.222); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.3}
+0.505 (+/-0.989); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.4}
+-1.975 (+/-5.948); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.5}
+0.778 (+/-0.310); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.6}
+0.709 (+/-0.566); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.7}
+0.889 (+/-0.222); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.8}
+0.340 (+/-0.165); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.9}
+0.538 (+/-0.588); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.0}
+0.620 (+/-0.750); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.1}
+0.630 (+/-0.059); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.2}
+0.417 (+/-1.116); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.3}
+-2613736554.570 (+/-5227473109.738); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.4}
+-2.049 (+/-6.095); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.5}
+0.695 (+/-0.479); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.6}
+0.891 (+/-0.209); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.7}
+0.707 (+/-0.546); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.8}
+0.985 (+/-0.018); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.9}
+-7078034.353 (+/-14156070.705); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.0}
+-0.057 (+/-2.109); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.1}
+-1222577168.708 (+/-2445154337.522); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.2}
+0.443 (+/-1.060); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.3}
+0.055 (+/-1.833); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.4}
+-90984431680.525 (+/-181968863350.377); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.5}
+0.791 (+/-0.300); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.6}
+0.743 (+/-0.498); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.7}
+0.777 (+/-0.379); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.8}
+0.639 (+/-0.550); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.9}
+0.406 (+/-1.186); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.0}
+0.966 (+/-0.015); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.1}
+0.208 (+/-1.544); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.2}
+0.498 (+/-0.990); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.3}
+-869141834.496 (+/-1738283669.759); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.4}
+-91917296975.946 (+/-183834593941.280); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.5}
+0.787 (+/-0.352); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.6}
+0.946 (+/-0.082); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.7}
+0.647 (+/-0.705); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.8}
+0.177 (+/-1.632); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.9}
+0.566 (+/-0.861); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.0}
+-0.482 (+/-1.766); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.1}
+-0.187 (+/-0.506); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.2}
+0.088 (+/-1.592); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.3}
+-19419739408.052 (+/-38839478817.750); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.4}
+-2.282 (+/-6.546); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.5}
+0.673 (+/-0.091); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.6}
+0.953 (+/-0.053); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.7}
+0.756 (+/-0.488); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.8}
+0.955 (+/-0.021); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.9}
+0.903 (+/-0.189); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.0}
+0.563 (+/-0.872); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.1}
+0.047 (+/-0.163); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.2}
+0.275 (+/-0.511); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.3}
+-345796523.094 (+/-691593046.723); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.4}
+-2.353 (+/-6.704); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.5}
+0.878 (+/-0.201); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.6}
+0.947 (+/-0.033); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.7}
+0.537 (+/-0.921); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.8}
+-3114366998.561 (+/-6228733998.706); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.9}
+-19210374129.929 (+/-38420748258.304); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.0}
+0.996 (+/-0.005); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.1}
+-1.413 (+/-1.115); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.2}
+0.430 (+/-1.111); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.3}
+0.314 (+/-0.910); for {'alpha_rquad': 0.9, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.4}
+-2.108 (+/-6.212); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.5}
+0.846 (+/-0.304); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.6}
+0.634 (+/-0.722); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.7}
+0.303 (+/-1.394); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.8}
+0.305 (+/-1.362); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.9}
+0.292 (+/-1.310); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.0}
+0.306 (+/-1.294); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.1}
+0.259 (+/-1.209); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.2}
+-62660.763 (+/-125320.878); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.3}
+0.315 (+/-1.370); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.4}
+-2.524 (+/-7.046); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.5}
+0.617 (+/-0.675); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.6}
+0.476 (+/-1.039); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.7}
+0.520 (+/-0.945); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.8}
+0.515 (+/-0.965); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.9}
+0.483 (+/-0.953); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.0}
+0.443 (+/-1.111); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.1}
+0.508 (+/-0.972); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.2}
+0.351 (+/-1.286); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.3}
+-90976.472 (+/-181952.210); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.4}
+-2.675 (+/-7.345); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.5}
+0.562 (+/-0.736); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.6}
+0.627 (+/-0.740); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.7}
+0.646 (+/-0.660); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.8}
+0.600 (+/-0.479); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.9}
+0.566 (+/-0.792); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.0}
+0.385 (+/-1.066); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.1}
+-0.108 (+/-0.088); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.2}
+0.952 (+/-0.081); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.3}
+0.038 (+/-1.785); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.4}
+-4.065 (+/-10.126); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.5}
+0.636 (+/-0.480); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.6}
+0.897 (+/-0.187); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.7}
+0.773 (+/-0.395); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.8}
+0.540 (+/-0.880); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.9}
+0.498 (+/-0.868); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.0}
+0.517 (+/-0.933); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.1}
+0.490 (+/-0.887); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.2}
+0.426 (+/-1.016); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.3}
+0.484 (+/-0.930); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.4}
+-1037348454660.024 (+/-1707286264147.678); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.5}
+0.690 (+/-0.502); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.6}
+0.701 (+/-0.579); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.7}
+0.885 (+/-0.218); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.8}
+0.646 (+/-0.534); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.9}
+0.661 (+/-0.631); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.0}
+0.614 (+/-0.749); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.1}
+-358391.007 (+/-716782.478); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.2}
+0.416 (+/-1.127); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.3}
+-318505906.932 (+/-637011814.584); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.4}
+-2.635 (+/-7.266); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.5}
+0.698 (+/-0.499); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.6}
+0.887 (+/-0.213); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.7}
+0.698 (+/-0.603); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.8}
+0.941 (+/-0.073); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.9}
+-59103584.851 (+/-118207171.696); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.0}
+0.457 (+/-1.080); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.1}
+-700158410.338 (+/-1400316819.127); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.2}
+0.457 (+/-1.063); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.3}
+0.449 (+/-1.044); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.4}
+-2.198 (+/-6.387); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.5}
+0.752 (+/-0.434); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.6}
+0.832 (+/-0.330); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.7}
+0.772 (+/-0.402); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.8}
+-1356040.289 (+/-2712082.556); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.9}
+0.490 (+/-0.871); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.0}
+-744147891.832 (+/-1488295785.639); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.1}
+0.248 (+/-1.480); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.2}
+0.495 (+/-0.999); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.3}
+-3050536.286 (+/-6101063.301); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.4}
+-91844020161.488 (+/-183688040308.953); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.5}
+0.780 (+/-0.289); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.6}
+0.940 (+/-0.088); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.7}
+0.998 (+/-0.003); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.8}
+0.493 (+/-0.991); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.9}
+0.375 (+/-1.250); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.0}
+-4.021 (+/-6.982); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.1}
+-113115478.544 (+/-226230957.208); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.2}
+-701436.020 (+/-1402873.678); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.3}
+-15321431.187 (+/-30642864.334); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.4}
+-1.910 (+/-5.815); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.5}
+0.661 (+/-0.120); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.6}
+0.945 (+/-0.061); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.7}
+0.659 (+/-0.681); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.8}
+-152130453.165 (+/-304260908.255); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.9}
+0.881 (+/-0.238); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.0}
+0.559 (+/-0.874); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.1}
+0.047 (+/-0.163); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.2}
+-4608431784.303 (+/-9216863570.541); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.3}
+0.620 (+/-0.724); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.4}
+-932602210840.187 (+/-1865204421682.370); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.5}
+0.714 (+/-0.468); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.6}
+0.944 (+/-0.057); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.7}
+0.872 (+/-0.255); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.8}
+-2379442180.443 (+/-4758884362.748); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.9}
+-1.203 (+/-3.312); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.0}
+0.098 (+/-1.802); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.1}
+-0.938 (+/-2.444); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.2}
+0.252 (+/-0.821); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.3}
+0.530 (+/-0.913); for {'alpha_rquad': 1.0, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.4}
+-91844020780.286 (+/-183688041548.553); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.5}
+0.754 (+/-0.348); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.6}
+0.281 (+/-1.416); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.7}
+0.297 (+/-1.406); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.8}
+0.300 (+/-1.375); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.9}
+0.290 (+/-1.326); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.0}
+0.294 (+/-1.309); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.1}
+0.306 (+/-1.332); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.2}
+0.327 (+/-1.313); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.3}
+0.707 (+/-0.585); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.4}
+-1.678 (+/-5.353); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.5}
+0.727 (+/-0.383); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.6}
+0.470 (+/-1.049); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.7}
+0.554 (+/-0.880); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.8}
+0.771 (+/-0.456); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.9}
+0.496 (+/-0.993); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.0}
+0.767 (+/-0.466); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.1}
+-1009963.633 (+/-2019927.303); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.2}
+0.358 (+/-1.237); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.3}
+0.325 (+/-1.348); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.4}
+-2.295 (+/-6.585); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.5}
+0.751 (+/-0.385); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.6}
+0.623 (+/-0.748); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.7}
+0.644 (+/-0.670); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.8}
+0.603 (+/-0.494); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.9}
+0.515 (+/-0.962); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.0}
+-1010308.584 (+/-2020616.906); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.1}
+0.646 (+/-0.596); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.2}
+-63162132.036 (+/-126324265.793); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.3}
+-1.228 (+/-4.193); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.4}
+-91871663083.471 (+/-183743326155.424); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.5}
+0.828 (+/-0.219); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.6}
+0.695 (+/-0.582); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.7}
+0.644 (+/-0.708); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.8}
+0.512 (+/-0.918); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.9}
+0.487 (+/-0.901); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.0}
+0.706 (+/-0.189); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.1}
+-727598.615 (+/-1455198.232); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.2}
+0.640 (+/-0.662); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.3}
+0.507 (+/-0.933); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.4}
+-1.727 (+/-5.449); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.5}
+0.677 (+/-0.515); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.6}
+0.701 (+/-0.575); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.7}
+0.880 (+/-0.211); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.8}
+0.542 (+/-0.578); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.9}
+0.879 (+/-0.056); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.0}
+0.777 (+/-0.300); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.1}
+-5383226.863 (+/-10766454.681); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.2}
+0.424 (+/-1.151); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.3}
+-12479757.331 (+/-24959515.481); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.4}
+-911334709290.976 (+/-1822669418583.945); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.5}
+0.709 (+/-0.474); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.6}
+0.883 (+/-0.218); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.7}
+0.755 (+/-0.462); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.8}
+0.697 (+/-0.563); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.9}
+-10143630.665 (+/-20287263.248); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.0}
+0.444 (+/-1.078); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.1}
+0.253 (+/-1.448); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.2}
+0.447 (+/-1.053); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.3}
+0.447 (+/-1.047); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.4}
+-2.204 (+/-6.404); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.5}
+0.742 (+/-0.416); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.6}
+0.790 (+/-0.414); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.7}
+0.864 (+/-0.271); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.8}
+0.650 (+/-0.678); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.9}
+0.834 (+/-0.330); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.0}
+0.985 (+/-0.003); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.1}
+0.345 (+/-1.303); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.2}
+0.484 (+/-0.987); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.3}
+-72893464.455 (+/-145786930.289); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.4}
+-2.469 (+/-6.933); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.5}
+0.753 (+/-0.372); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.6}
+0.935 (+/-0.095); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.7}
+0.999 (+/-0.001); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.8}
+0.721 (+/-0.553); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.9}
+0.517 (+/-0.964); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.0}
+-0.729 (+/-2.592); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.1}
+0.125 (+/-0.142); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.2}
+-438713575.809 (+/-877427153.129); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.3}
+-0.200 (+/-0.519); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.4}
+-91940119949.593 (+/-183880239889.099); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.5}
+0.765 (+/-0.376); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.6}
+0.934 (+/-0.061); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.7}
+0.759 (+/-0.480); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.8}
+-0.203 (+/-0.408); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.9}
+0.969 (+/-0.061); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.0}
+0.558 (+/-0.881); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.1}
+0.042 (+/-0.153); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.2}
+0.724 (+/-0.500); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.3}
+0.601 (+/-0.602); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.4}
+-2.520 (+/-7.038); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.5}
+0.699 (+/-0.551); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.6}
+0.935 (+/-0.069); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.7}
+0.707 (+/-0.585); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.8}
+-13198342.645 (+/-26396687.026); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.9}
+-0.207 (+/-1.111); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.0}
+0.287 (+/-1.426); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.1}
+-1.268 (+/-2.061); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.2}
+-3089812770.217 (+/-6179625539.987); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.3}
+0.724 (+/-0.488); for {'alpha_rquad': 1.1, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.4}
+-2.112 (+/-6.222); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.5}
+0.806 (+/-0.312); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.6}
+0.279 (+/-1.433); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.7}
+0.292 (+/-1.416); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.8}
+0.296 (+/-1.386); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.9}
+0.286 (+/-1.337); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.0}
+0.292 (+/-1.318); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.1}
+0.256 (+/-1.248); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.2}
+0.327 (+/-1.328); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.3}
+0.709 (+/-0.580); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.4}
+-91895753286.924 (+/-183791506559.684); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.5}
+0.421 (+/-1.048); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.6}
+0.465 (+/-1.058); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.7}
+0.890 (+/-0.211); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.8}
+0.495 (+/-1.007); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.9}
+0.487 (+/-0.970); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.0}
+0.464 (+/-1.071); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.1}
+0.278 (+/-0.528); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.2}
+0.367 (+/-1.253); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.3}
+0.306 (+/-1.382); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.4}
+-2.097 (+/-6.184); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.5}
+0.549 (+/-0.749); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.6}
+0.618 (+/-0.755); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.7}
+0.642 (+/-0.679); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.8}
+0.522 (+/-0.678); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.9}
+0.501 (+/-0.961); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.0}
+0.324 (+/-0.651); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.1}
+0.322 (+/-0.057); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.2}
+-28388156.232 (+/-56776313.013); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.3}
+0.961 (+/-0.013); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.4}
+-2.170 (+/-6.338); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.5}
+0.665 (+/-0.574); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.6}
+0.836 (+/-0.299); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.7}
+0.623 (+/-0.753); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.8}
+0.497 (+/-0.882); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.9}
+0.484 (+/-0.909); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.0}
+0.490 (+/-0.716); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.1}
+0.500 (+/-0.919); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.2}
+0.764 (+/-0.462); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.3}
+-2403246.235 (+/-4806493.335); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.4}
+-2.683 (+/-7.364); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.5}
+0.833 (+/-0.242); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.6}
+0.691 (+/-0.592); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.7}
+0.884 (+/-0.223); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.8}
+0.671 (+/-0.628); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.9}
+0.441 (+/-0.937); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.0}
+0.586 (+/-0.798); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.1}
+0.724 (+/-0.427); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.2}
+0.413 (+/-1.138); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.3}
+-0.293 (+/-1.126); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.4}
+-91889587837.639 (+/-183779175676.068); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.5}
+0.730 (+/-0.477); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.6}
+0.880 (+/-0.222); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.7}
+0.860 (+/-0.254); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.8}
+0.692 (+/-0.574); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.9}
+0.339 (+/-1.315); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.0}
+0.441 (+/-1.092); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.1}
+-0.011 (+/-1.369); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.2}
+0.453 (+/-1.073); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.3}
+0.445 (+/-1.051); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.4}
+-2.427 (+/-6.845); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.5}
+0.732 (+/-0.400); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.6}
+0.853 (+/-0.292); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.7}
+0.771 (+/-0.416); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.8}
+0.668 (+/-0.642); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.9}
+0.565 (+/-0.864); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.0}
+0.911 (+/-0.155); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.1}
+0.509 (+/-0.951); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.2}
+0.483 (+/-0.992); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.3}
+0.598 (+/-0.791); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.4}
+-2.482 (+/-6.956); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.5}
+0.797 (+/-0.292); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.6}
+0.930 (+/-0.101); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.7}
+0.996 (+/-0.007); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.8}
+0.501 (+/-0.992); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.9}
+-0.155 (+/-2.309); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.0}
+-2.080 (+/-2.360); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.1}
+0.181 (+/-0.256); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.2}
+-0.299 (+/-1.990); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.3}
+0.495 (+/-0.991); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.4}
+-2.360 (+/-6.698); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.5}
+0.629 (+/-0.149); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.6}
+0.921 (+/-0.055); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.7}
+0.597 (+/-0.806); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.8}
+-0.311 (+/-0.950); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.9}
+0.844 (+/-0.297); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.0}
+0.554 (+/-0.889); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.1}
+0.040 (+/-0.149); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.2}
+-4405745867.710 (+/-8811491735.751); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.3}
+0.393 (+/-0.068); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.4}
+-1.870 (+/-5.735); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.5}
+0.802 (+/-0.216); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.6}
+0.927 (+/-0.081); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.7}
+0.952 (+/-0.095); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.8}
+-0.070 (+/-1.055); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.9}
+-0.913 (+/-0.255); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.0}
+-0.205 (+/-2.410); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.1}
+-0.988 (+/-2.822); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.2}
+-3099903411.755 (+/-6199806823.860); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.3}
+-3141696943.784 (+/-6283393887.640); for {'alpha_rquad': 1.2, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.4}
+-91839987583.363 (+/-183679975157.549); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.5}
+0.837 (+/-0.237); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.6}
+0.274 (+/-1.443); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.7}
+0.287 (+/-1.425); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.8}
+0.292 (+/-1.397); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.9}
+0.283 (+/-1.348); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.0}
+0.470 (+/-1.040); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.1}
+0.251 (+/-1.253); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.2}
+0.323 (+/-1.323); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.3}
+0.305 (+/-1.385); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.4}
+-2.309 (+/-6.613); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.5}
+0.347 (+/-0.922); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.6}
+0.460 (+/-1.065); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.7}
+0.480 (+/-1.032); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.8}
+0.492 (+/-1.008); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.9}
+0.471 (+/-1.046); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.0}
+0.424 (+/-1.150); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.1}
+0.503 (+/-0.985); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.2}
+0.295 (+/-1.397); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.3}
+0.326 (+/-1.343); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.4}
+-3.238 (+/-8.465); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.5}
+0.557 (+/-0.782); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.6}
+0.614 (+/-0.761); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.7}
+0.640 (+/-0.687); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.8}
+0.544 (+/-0.643); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.9}
+0.557 (+/-0.874); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.0}
+0.375 (+/-1.105); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.1}
+0.331 (+/-0.043); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.2}
+0.370 (+/-1.008); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.3}
+0.946 (+/-0.108); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.4}
+-2.790 (+/-7.568); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.5}
+0.860 (+/-0.147); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.6}
+0.817 (+/-0.340); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.7}
+0.754 (+/-0.492); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.8}
+0.730 (+/-0.430); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.9}
+0.700 (+/-0.280); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.0}
+0.750 (+/-0.360); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.1}
+-715656.018 (+/-1431312.087); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.2}
+0.761 (+/-0.434); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.3}
+-107837.086 (+/-215675.247); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.4}
+-1.971 (+/-5.938); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.5}
+0.682 (+/-0.549); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.6}
+0.692 (+/-0.591); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.7}
+0.880 (+/-0.219); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.8}
+0.811 (+/-0.350); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.9}
+0.520 (+/-0.784); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.0}
+0.592 (+/-0.738); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.1}
+-942404.699 (+/-1884810.935); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.2}
+0.404 (+/-1.132); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.3}
+0.455 (+/-0.066); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.4}
+-2.310 (+/-6.617); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.5}
+0.858 (+/-0.228); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.6}
+0.877 (+/-0.226); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.7}
+0.682 (+/-0.615); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.8}
+0.462 (+/-0.176); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.9}
+0.677 (+/-0.558); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.0}
+0.443 (+/-1.114); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.1}
+0.313 (+/-1.339); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.2}
+0.443 (+/-1.063); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.3}
+0.452 (+/-1.077); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.4}
+0.120 (+/-1.740); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.5}
+0.720 (+/-0.417); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.6}
+0.772 (+/-0.448); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.7}
+0.748 (+/-0.467); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.8}
+0.614 (+/-0.752); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.9}
+0.590 (+/-0.820); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.0}
+0.772 (+/-0.425); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.1}
+0.282 (+/-1.414); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.2}
+0.488 (+/-1.013); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.3}
+0.079 (+/-1.720); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.4}
+-936463732063.296 (+/-1872927464128.588); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.5}
+0.793 (+/-0.298); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.6}
+0.924 (+/-0.106); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.7}
+1.000 (+/-0.001); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.8}
+0.500 (+/-0.997); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.9}
+0.925 (+/-0.144); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.0}
+-2.547 (+/-0.962); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.1}
+0.215 (+/-0.337); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.2}
+0.413 (+/-0.332); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.3}
+-0.125 (+/-2.243); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.4}
+-91976098707.448 (+/-183952197404.354); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.5}
+0.616 (+/-0.162); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.6}
+0.929 (+/-0.092); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.7}
+0.738 (+/-0.521); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.8}
+-17493271.483 (+/-34986541.516); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.9}
+0.969 (+/-0.061); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.0}
+0.552 (+/-0.893); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.1}
+0.037 (+/-0.143); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.2}
+-8400105840.048 (+/-16800211680.321); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.3}
+-71661.577 (+/-143321.774); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.4}
+-2.080 (+/-6.155); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.5}
+0.673 (+/-0.558); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.6}
+0.919 (+/-0.090); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.7}
+0.404 (+/-1.189); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.8}
+-101713558.950 (+/-203427118.863); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.9}
+-0.016 (+/-1.568); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.0}
+-0.018 (+/-2.036); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.1}
+-1.100 (+/-2.744); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.2}
+-980345.848 (+/-1960692.036); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.3}
+-2730941784.910 (+/-5461883571.794); for {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.4}
+-3.156 (+/-8.310); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.5}
+0.787 (+/-0.321); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.6}
+0.267 (+/-1.447); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.7}
+0.283 (+/-1.433); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.8}
+0.289 (+/-1.405); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.5, 'nu': 1.9}
+0.281 (+/-1.359); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.0}
+0.693 (+/-0.531); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.1}
+0.318 (+/-1.275); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.2}
+0.314 (+/-1.314); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.3}
+0.295 (+/-1.410); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.5, 'nu': 2.4}
+-2.760 (+/-7.511); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.5}
+0.713 (+/-0.297); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.6}
+0.455 (+/-1.072); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.7}
+0.477 (+/-1.039); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.8}
+0.474 (+/-0.985); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.6, 'nu': 1.9}
+0.751 (+/-0.446); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.0}
+0.489 (+/-1.021); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.1}
+0.502 (+/-0.989); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.2}
+0.290 (+/-1.401); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.3}
+0.657 (+/-0.667); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.6, 'nu': 2.4}
+-0.996 (+/-3.989); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.5}
+0.586 (+/-0.751); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.6}
+0.611 (+/-0.766); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.7}
+0.638 (+/-0.693); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.8}
+0.605 (+/-0.521); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.7, 'nu': 1.9}
+0.702 (+/-0.589); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.0}
+0.404 (+/-1.106); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.1}
+-20209503.988 (+/-40419008.686); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.2}
+0.589 (+/-0.611); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.3}
+0.919 (+/-0.150); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.7, 'nu': 2.4}
+-91836054791.285 (+/-183672109572.219); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.5}
+0.787 (+/-0.290); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.6}
+0.831 (+/-0.315); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.7}
+0.685 (+/-0.620); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.8}
+0.535 (+/-0.900); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.8, 'nu': 1.9}
+0.575 (+/-0.738); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.0}
+0.503 (+/-0.960); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.1}
+-721314.407 (+/-1442629.035); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.2}
+0.378 (+/-0.150); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.3}
+0.682 (+/-0.633); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.8, 'nu': 2.4}
+-1.895 (+/-5.787); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.5}
+0.761 (+/-0.420); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.6}
+0.735 (+/-0.502); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.7}
+0.884 (+/-0.231); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.8}
+0.798 (+/-0.325); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.9, 'nu': 1.9}
+0.900 (+/-0.028); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.0}
+0.607 (+/-0.778); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.1}
+0.887 (+/-0.169); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.2}
+-3926054.977 (+/-7852109.616); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.3}
+-33821455.343 (+/-67642910.768); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 0.9, 'nu': 2.4}
+-2.164 (+/-6.322); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.5}
+0.673 (+/-0.506); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.6}
+0.874 (+/-0.230); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.7}
+0.680 (+/-0.619); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.8}
+-357274.991 (+/-714551.940); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.0, 'nu': 1.9}
+0.475 (+/-1.042); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.0}
+0.386 (+/-1.203); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.1}
+0.148 (+/-0.572); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.2}
+0.442 (+/-1.068); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.3}
+-1034830.687 (+/-2069661.192); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.0, 'nu': 2.4}
+0.171 (+/-1.640); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.5}
+0.753 (+/-0.345); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.6}
+0.844 (+/-0.302); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.7}
+0.745 (+/-0.479); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.8}
+-17562290.557 (+/-35124580.841); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.1, 'nu': 1.9}
+0.506 (+/-0.987); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.0}
+-101296757.060 (+/-202593515.430); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.1}
+0.293 (+/-1.393); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.2}
+0.480 (+/-1.003); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.3}
+0.473 (+/-0.664); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.1, 'nu': 2.4}
+-2.023 (+/-5.991); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.5}
+0.858 (+/-0.140); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.6}
+0.920 (+/-0.112); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.7}
+0.999 (+/-0.001); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.8}
+0.425 (+/-1.149); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.9}
+0.106 (+/-1.777); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.0}
+-2.245 (+/-3.694); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.1}
+0.016 (+/-0.049); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.2}
+0.104 (+/-0.979); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.3}
+-3140085015.399 (+/-6280170032.786); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.2, 'nu': 2.4}
+-2.250 (+/-6.479); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.5}
+0.607 (+/-0.183); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.6}
+0.922 (+/-0.097); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.7}
+0.505 (+/-0.985); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.8}
+0.344 (+/-0.773); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.3, 'nu': 1.9}
+0.965 (+/-0.068); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.0}
+0.551 (+/-0.897); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.1}
+0.034 (+/-0.139); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.2}
+-4441353948.724 (+/-8882707886.076); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.3}
+-9902466.526 (+/-19804933.748); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.3, 'nu': 2.4}
+-2.154 (+/-6.294); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.5}
+0.679 (+/-0.577); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.6}
+0.914 (+/-0.106); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.7}
+0.579 (+/-0.813); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.8}
+-100187037.808 (+/-200374076.625); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.4, 'nu': 1.9}
+-78536381598.851 (+/-157072763192.166); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.0}
+-0.063 (+/-2.125); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.1}
+-2.280 (+/-0.485); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.2}
+0.003 (+/-0.326); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.3}
+0.757 (+/-0.350); for {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 1.4, 'nu': 2.4}
+Best dict: {'kernel': 'matern', 'length': 1.3, 'nu': 1.2} chi2 = 0.25554
+Best dict: {'alpha_rquad': 1.4, 'kernel': 'prod2', 'length': 2.2, 'nu': 1.2} chi2 = inf
+Best dict: {'alpha_rquad': 1.3, 'kernel': 'prod2', 'length': 1.2, 'nu': 1.8} chi2 = 0.25580

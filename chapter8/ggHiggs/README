@@ -1,0 +1,57 @@
+
+      ggHiggs
+
+
+Inclusive Higgs cross-section in gluon fusion up to next-to-next-to-next-to leading order
+
+This code computes the cross-section for the inclusive Higgs production in gluon fusion at NLO, NNLO and N3LO.
+The cross-sections can also be computed using an approximation based on a combination of optimized soft-collinear and high-energy behaviours.
+At NLO and NNLO the exact result is also provided (in the large-mt limit and with full top mass dependence, see Credits).
+The recent N3LO result in the large-mt limit is also implemented.
+
+The results are based on the paper:
+
+R.D. Ball, M. Bonvini, S. Forte, S. Marzani and G. Ridolfi, arXiv:1303.3590 [hep-ph]
+M. Bonvini, R.D. Ball, S. Forte, S. Marzani and G. Ridolfi, arXiv:1404.3204 [hep-ph]
+M. Bonvini, S. Marzani, C. Muselli and L. Rottoli, arXiv:1603.08000 [hep-ph] (version 3.x onwards)
+T. Ahmed, M. Bonvini, M.C. Kumar, P. Mathews, N. Rana, V. Ravindran and L. Rottoli, arXiv:1606.00837 [hep-ph] (for pseudo-scalar Higgs production, version 3.3+)
+
+Please cite them if you use this code.
+
+All updates are availabel at https://www.ge.infn.it/~bonvini/higgs/
+
+
+
+Installation
+----------------
+
+Install gfortran, LHAPDF (5 or 6), GSL and CUBA.
+
+Specify the path to the CUBA installation in the first (effective)
+line of the Makefile:
+
+CUBA_PATH = /write/here/your/path/to/CUBA
+
+and if needed also the one to gfortran
+
+Then type:
+
+> make
+
+This should create the library libggHiggs.a (takes a while)
+and then create the two executables ggHiggs and ggHiggs-verbose.
+
+
+Usage
+----------------
+
+To run try
+
+> ./ggHiggs -h
+> ./ggHiggs-verbose -h
+
+
+
+Please report any problem to marco.bonvini@ge.infn.it
+
+

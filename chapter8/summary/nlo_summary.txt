@@ -1,0 +1,17 @@
+
+Interpolation N range: (1.075, 2.1) - 25 points
+Best dict: {'kernel': 'matern', 'length': 0.7, 'nu': 0.9} chi2 = inf
+Interpolation N range: (1.075, 2.1) - 25 points
+Best dict: {'kernel': 'matern', 'length': 0.2, 'nu': 1.2} chi2 = 0.42305
+Interpolation N range: (1.075, 2.1) - 25 points
+Best dict: {'kernel': 'matern', 'length': 0.7, 'nu': 1.2} chi2 = 0.25084
+Interpolation N range: (1.075, 2.1) - 25 points
+Best dict: {'kernel': 'matern', 'length': 0.9, 'nu': 0.9} chi2 = 0.28365
+Interpolation N range: (1.075, 2.1) - 25 points
+Best dict: {'kernel': 'matern', 'length': 1.0, 'nu': 0.9} chi2 = 0.21115
+Interpolation N range: (1.075, 2.1) - 25 points
+Best dict: {'kernel': 'matern', 'length': 1.3, 'nu': 0.9} chi2 = 0.22025
+Interpolation N range: (1.075, 2.1) - 25 points
+Best dict: {'kernel': 'matern', 'length': 0.3, 'nu': 1.6} chi2 = 0.33018
+Interpolation N range: (1.075, 2.1) - 25 points
+Best dict: {'kernel': 'matern', 'length': 1.0, 'nu': 0.9} chi2 = 0.20183
