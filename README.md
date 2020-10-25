@@ -37,14 +37,15 @@ Clasification vs Regression problems
 
 # Advanced topics
 
-## Implementing Operators in TF
+## Chapter 7 - Advanced mathemtatical computations
+- Reproduce Hypergeometric functions with python libraries.
 
-## GANS
-
-## GP for Machine Learning
+## Chapter 8 - Gaussian Processes Machine Learning
 
 - Reproduce Hypergeometric functions with python libraries.
 - Interpolate observables with Gaussian Processes.
 - Hyperoptimization.
 
-## Course roadmap still ongoing
+## Chapter 9 - GANS
+
+## Chapter 10 - Hyperoptimization
