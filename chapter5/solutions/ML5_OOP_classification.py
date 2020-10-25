@@ -157,9 +157,9 @@ class Neural_Network:
 ##### Main #####
 
 # Choose a dataset
-dataset_opt = int(input("Choose a dataset\nType 1 for MNIST or 2 for SKLEARN: "))
+dataset_opt = int(input("Choose a dataset\nType 1 for SKLEARN or 2 for MNIST: "))
 
-if dataset_opt == 1:
+if dataset_opt == 2:
 
     # Download datasets
     print("\nDownload datasets")
@@ -215,7 +215,7 @@ if dataset_opt == 1:
     example_input = train_images_input[11]
     example_output = train_labels_hot[11]
 
-elif dataset_opt == 2:
+elif dataset_opt == 1:
 
     # Download datasets
     print("\nDownload datasets")
@@ -255,11 +255,11 @@ print("Predicted output: {}".format(np.argmax(a[-1])))
 
 # Train the model. Call the train method to run the backpropagation over the whole train set
 
-if dataset_opt == 1:
+if dataset_opt == 2:
         
     print("\n3. Training for MNIST still to be implemented")
 
-elif dataset_opt == 2:
+elif dataset_opt == 1:
 
     print("\n3. Training model")
     # model.train(train_images, train_label)
