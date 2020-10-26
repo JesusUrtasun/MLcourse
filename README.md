@@ -38,7 +38,9 @@ Clasification vs Regression problems
 # Advanced topics
 
 ## Chapter 7 - Advanced mathemtatical computations
+- Scientific and mathematical computations Scipy and Scipy special
 - Reproduce Hypergeometric functions with python libraries.
+- Approximate a functions known its assymptotics.
 
 ## Chapter 8 - Gaussian Processes Machine Learning
 
